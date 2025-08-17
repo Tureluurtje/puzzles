@@ -1,5 +1,5 @@
 from generator import select_words, build_grid
-from topdf import create_solution_sheet
+from topdf2 import create_fill_in_with_answer
 
 solution_phrase = "handige"
 
@@ -7,7 +7,7 @@ selected_words = select_words(solution_phrase)
 
 matrix, solution_phrase_index = build_grid(solution_phrase, selected_words)
 
-create_solution_sheet(matrix, solution_phrase, selected_words, solution_phrase_index)
+create_fill_in_with_answer(matrix, selected_words, solution_phrase, solution_phrase_index)
 
 '''
 for row in matrix:

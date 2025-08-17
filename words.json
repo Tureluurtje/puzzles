@@ -1,0 +1,5687 @@
+{
+    "solution_phrases": [
+        "tijdschakelaar"
+    ],
+    "puzzle_entries": [
+        {
+            "word": "afrit",
+            "clue": "weg van de snelweg af"
+        },
+        {
+            "word": "akker",
+            "clue": "stuk landbouwgrond"
+        },
+        {
+            "word": "alarmbel",
+            "clue": "bel bij gevaar"
+        },
+        {
+            "word": "algen",
+            "clue": "kleine waterplanten"
+        },
+        {
+            "word": "ambacht",
+            "clue": "traditioneel vak"
+        },
+        {
+            "word": "ankerpunt",
+            "clue": "vast punt"
+        },
+        {
+            "word": "applaus",
+            "clue": "klappen van publiek"
+        },
+        {
+            "word": "arbeider",
+            "clue": "werkende persoon"
+        },
+        {
+            "word": "aroma",
+            "clue": "geur of smaak"
+        },
+        {
+            "word": "atlas",
+            "clue": "boek met kaarten"
+        },
+        {
+            "word": "avondeten",
+            "clue": "maaltijd in de avond"
+        },
+        {
+            "word": "avondklok",
+            "clue": "verbod om \u2019s avonds buiten te zijn"
+        },
+        {
+            "word": "baksteen",
+            "clue": "steen voor bouwen"
+        },
+        {
+            "word": "balpen",
+            "clue": "pen met balpunt"
+        },
+        {
+            "word": "bankstel",
+            "clue": "set van banken"
+        },
+        {
+            "word": "barbecue",
+            "clue": "grillfeest buiten"
+        },
+        {
+            "word": "bedrag",
+            "clue": "hoeveelheid geld"
+        },
+        {
+            "word": "beeldhouwer",
+            "clue": "maker van beelden"
+        },
+        {
+            "word": "bejaarde",
+            "clue": "oudere persoon"
+        },
+        {
+            "word": "bekende",
+            "clue": "iemand die je kent"
+        },
+        {
+            "word": "belasting",
+            "clue": "geld voor de overheid"
+        },
+        {
+            "word": "belofte",
+            "clue": "toezegging"
+        },
+        {
+            "word": "bergtop",
+            "clue": "hoogste punt van een berg"
+        },
+        {
+            "word": "bergwand",
+            "clue": "zijkant van een berg"
+        },
+        {
+            "word": "bermbloem",
+            "clue": "bloem langs de weg"
+        },
+        {
+            "word": "beschuit",
+            "clue": "droog rond broodje"
+        },
+        {
+            "word": "beslissing",
+            "clue": "keuze"
+        },
+        {
+            "word": "bestek",
+            "clue": "mes, vork en lepel"
+        },
+        {
+            "word": "beukeboom",
+            "clue": "grote boomsoort"
+        },
+        {
+            "word": "bezemsteel",
+            "clue": "steel van een bezem"
+        },
+        {
+            "word": "bibliotheek",
+            "clue": "gebouw met boeken"
+        },
+        {
+            "word": "bierglas",
+            "clue": "glas voor bier"
+        },
+        {
+            "word": "bijbaan",
+            "clue": "extra werk"
+        },
+        {
+            "word": "bijbel",
+            "clue": "heilig boek"
+        },
+        {
+            "word": "bijgebouw",
+            "clue": "klein gebouw erbij"
+        },
+        {
+            "word": "bijl",
+            "clue": "werktuig om te hakken"
+        },
+        {
+            "word": "binnenstad",
+            "clue": "centrum van een stad"
+        },
+        {
+            "word": "bioscoop",
+            "clue": "zaal voor films"
+        },
+        {
+            "word": "blaadje",
+            "clue": "klein blad"
+        },
+        {
+            "word": "bladzijde",
+            "clue": "pagina in een boek"
+        },
+        {
+            "word": "blauwdruk",
+            "clue": "bouwtekening"
+        },
+        {
+            "word": "bloeddruk",
+            "clue": "kracht van bloed in de aderen"
+        },
+        {
+            "word": "bloementuin",
+            "clue": "tuin met bloemen"
+        },
+        {
+            "word": "bloemkool",
+            "clue": "groente met witte roosjes"
+        },
+        {
+            "word": "bloempot",
+            "clue": "pot voor bloemen"
+        },
+        {
+            "word": "bloes",
+            "clue": "kledingstuk"
+        },
+        {
+            "word": "bloesem",
+            "clue": "bloemen in de lente"
+        },
+        {
+            "word": "boekhandel",
+            "clue": "winkel voor boeken"
+        },
+        {
+            "word": "boekhouding",
+            "clue": "financi\u00eble administratie"
+        },
+        {
+            "word": "boekrol",
+            "clue": "oude rol met tekst"
+        },
+        {
+            "word": "boerderij",
+            "clue": "huis op het platteland"
+        },
+        {
+            "word": "boerderijweg",
+            "clue": "weg naar een boerderij"
+        },
+        {
+            "word": "boodschap",
+            "clue": "wat je koopt of zegt"
+        },
+        {
+            "word": "boomschors",
+            "clue": "buitenkant van een boom"
+        },
+        {
+            "word": "boormachine",
+            "clue": "apparaat om te boren"
+        },
+        {
+            "word": "boorput",
+            "clue": "gat in de grond"
+        },
+        {
+            "word": "borstkas",
+            "clue": "deel van het lichaam"
+        },
+        {
+            "word": "botermes",
+            "clue": "mes voor boter"
+        },
+        {
+            "word": "bouwmateriaal",
+            "clue": "materiaal om te bouwen"
+        },
+        {
+            "word": "bouwput",
+            "clue": "gegraven gat voor bouw"
+        },
+        {
+            "word": "bovenarm",
+            "clue": "deel van de arm"
+        },
+        {
+            "word": "brandstof",
+            "clue": "materiaal dat energie geeft"
+        },
+        {
+            "word": "brandweer",
+            "clue": "dienst bij brand"
+        },
+        {
+            "word": "briefpapier",
+            "clue": "papier voor brieven"
+        },
+        {
+            "word": "bruggenbouw",
+            "clue": "maken van bruggen"
+        },
+        {
+            "word": "brugwachter",
+            "clue": "persoon bij een brug"
+        },
+        {
+            "word": "bruidspaar",
+            "clue": "twee die trouwen"
+        },
+        {
+            "word": "brulapen",
+            "clue": "apen die luid roepen"
+        },
+        {
+            "word": "brulboei",
+            "clue": "iemand die hard roept"
+        },
+        {
+            "word": "brulkikker",
+            "clue": "grote kikker"
+        },
+        {
+            "word": "buikpijn",
+            "clue": "pijn in de buik"
+        },
+        {
+            "word": "buitenkans",
+            "clue": "onverwachte gelegenheid"
+        },
+        {
+            "word": "buitenland",
+            "clue": "niet eigen land"
+        },
+        {
+            "word": "buitenspel",
+            "clue": "overtreding bij sport"
+        },
+        {
+            "word": "bureaulamp",
+            "clue": "lamp op bureau"
+        },
+        {
+            "word": "buskaartje",
+            "clue": "kaartje voor bus"
+        },
+        {
+            "word": "buurland",
+            "clue": "land naast een ander land"
+        },
+        {
+            "word": "cadeaubon",
+            "clue": "bon voor een cadeau"
+        },
+        {
+            "word": "camping",
+            "clue": "terrein om te kamperen"
+        },
+        {
+            "word": "centrale",
+            "clue": "hoofdgebouw"
+        },
+        {
+            "word": "chocoladereep",
+            "clue": "zoete lekkernij"
+        },
+        {
+            "word": "cijferlijst",
+            "clue": "overzicht van cijfers"
+        },
+        {
+            "word": "cirkel",
+            "clue": "ronde vorm"
+        },
+        {
+            "word": "clubhuis",
+            "clue": "gebouw van vereniging"
+        },
+        {
+            "word": "computer",
+            "clue": "elektronisch apparaat"
+        },
+        {
+            "word": "computertaal",
+            "clue": "taal voor computers"
+        },
+        {
+            "word": "cursus",
+            "clue": "lessenreeks"
+        },
+        {
+            "word": "dakpan",
+            "clue": "bedekking voor dak"
+        },
+        {
+            "word": "dansvloer",
+            "clue": "vloer om te dansen"
+        },
+        {
+            "word": "dauw",
+            "clue": "vocht in de ochtend"
+        },
+        {
+            "word": "deegroller",
+            "clue": "rol voor deeg"
+        },
+        {
+            "word": "dennenbos",
+            "clue": "bos met dennenbomen"
+        },
+        {
+            "word": "deurknop",
+            "clue": "knop van een deur"
+        },
+        {
+            "word": "deurslot",
+            "clue": "slot van een deur"
+        },
+        {
+            "word": "diefstal",
+            "clue": "roof"
+        },
+        {
+            "word": "dienstregeling",
+            "clue": "schema van vervoer"
+        },
+        {
+            "word": "dierenarts",
+            "clue": "arts voor dieren"
+        },
+        {
+            "word": "dierenasiel",
+            "clue": "opvang voor dieren"
+        },
+        {
+            "word": "dierensoort",
+            "clue": "type dier"
+        },
+        {
+            "word": "dierentuin",
+            "clue": "plaats met dieren"
+        },
+        {
+            "word": "dijkdoorbraak",
+            "clue": "breuk in een dijk"
+        },
+        {
+            "word": "dijkhuis",
+            "clue": "huis bij een dijk"
+        },
+        {
+            "word": "dinosaurus",
+            "clue": "uitgestorven dier"
+        },
+        {
+            "word": "dirigent",
+            "clue": "leider van orkest"
+        },
+        {
+            "word": "discotheek",
+            "clue": "dansgelegenheid"
+        },
+        {
+            "word": "doktersjas",
+            "clue": "jas van een dokter"
+        },
+        {
+            "word": "donkere nacht",
+            "clue": "nacht zonder licht"
+        },
+        {
+            "word": "donkere wolk",
+            "clue": "wolk zonder zon"
+        },
+        {
+            "word": "dorpstraat",
+            "clue": "straat in dorp"
+        },
+        {
+            "word": "dorstlesser",
+            "clue": "drankje tegen dorst"
+        },
+        {
+            "word": "douchekop",
+            "clue": "kop van een douche"
+        },
+        {
+            "word": "draadloos",
+            "clue": "zonder draad"
+        },
+        {
+            "word": "draagstoel",
+            "clue": "stoel die je draagt"
+        },
+        {
+            "word": "draaimolen",
+            "clue": "kermisattractie"
+        },
+        {
+            "word": "droogte",
+            "clue": "gebrek aan regen"
+        },
+        {
+            "word": "droombeeld",
+            "clue": "beeld in een droom"
+        },
+        {
+            "word": "duikbril",
+            "clue": "bril voor onder water"
+        },
+        {
+            "word": "duinlandschap",
+            "clue": "gebied met duinen"
+        },
+        {
+            "word": "duinpan",
+            "clue": "laagte tussen duinen"
+        },
+        {
+            "word": "eekhoorn",
+            "clue": "klein knaagdier"
+        },
+        {
+            "word": "eetkamer",
+            "clue": "kamer om te eten"
+        },
+        {
+            "word": "eetlepel",
+            "clue": "lepel om mee te eten"
+        },
+        {
+            "word": "eetlust",
+            "clue": "zin om te eten"
+        },
+        {
+            "word": "eetzaal",
+            "clue": "grote eetkamer"
+        },
+        {
+            "word": "eilandraad",
+            "clue": "bestuur op eiland"
+        },
+        {
+            "word": "eilandsfeer",
+            "clue": "sfeer van een eiland"
+        },
+        {
+            "word": "einddoel",
+            "clue": "laatste doel"
+        },
+        {
+            "word": "eindpunt",
+            "clue": "laatste halte"
+        },
+        {
+            "word": "eindronde",
+            "clue": "laatste ronde"
+        },
+        {
+            "word": "eindspel",
+            "clue": "slot van een spel"
+        },
+        {
+            "word": "elastiek",
+            "clue": "rekbaar bandje"
+        },
+        {
+            "word": "elektriciteit",
+            "clue": "stroom"
+        },
+        {
+            "word": "emmer",
+            "clue": "bak met handvat"
+        },
+        {
+            "word": "engel",
+            "clue": "bovennatuurlijk wezen"
+        },
+        {
+            "word": "envelop",
+            "clue": "papieren hoesje voor brief"
+        },
+        {
+            "word": "erfgoed",
+            "clue": "nalatenschap"
+        },
+        {
+            "word": "ervaringsdeskundige",
+            "clue": "iemand met ervaring"
+        },
+        {
+            "word": "erwtensoep",
+            "clue": "dikke soep"
+        },
+        {
+            "word": "etenstijd",
+            "clue": "tijd om te eten"
+        },
+        {
+            "word": "etiket",
+            "clue": "label"
+        },
+        {
+            "word": "evenwicht",
+            "clue": "balans"
+        },
+        {
+            "word": "excursie",
+            "clue": "leerzaam uitstapje"
+        },
+        {
+            "word": "faalangst",
+            "clue": "vrees om te mislukken"
+        },
+        {
+            "word": "fabriek",
+            "clue": "gebouw voor productie"
+        },
+        {
+            "word": "failliet",
+            "clue": "geen geld meer hebben"
+        },
+        {
+            "word": "familielid",
+            "clue": "iemand uit de familie"
+        },
+        {
+            "word": "feestdag",
+            "clue": "dag waarop men viert"
+        },
+        {
+            "word": "feestmaal",
+            "clue": "groot feestelijk eten"
+        },
+        {
+            "word": "feesttent",
+            "clue": "tent voor feest"
+        },
+        {
+            "word": "fietsbel",
+            "clue": "bel van een fiets"
+        },
+        {
+            "word": "fietsketting",
+            "clue": "ketting van fiets"
+        },
+        {
+            "word": "fietspad",
+            "clue": "weg voor fietsen"
+        },
+        {
+            "word": "fietssleutel",
+            "clue": "sleutel voor slot"
+        },
+        {
+            "word": "filmrol",
+            "clue": "rol voor oude camera"
+        },
+        {
+            "word": "flessenpost",
+            "clue": "brief in fles"
+        },
+        {
+            "word": "fluitketel",
+            "clue": "ketel die fluit"
+        },
+        {
+            "word": "folder",
+            "clue": "informatieboekje"
+        },
+        {
+            "word": "fotoalbum",
+            "clue": "boek met foto\u2019s"
+        },
+        {
+            "word": "fotografie",
+            "clue": "het maken van foto\u2019s"
+        },
+        {
+            "word": "fotolijst",
+            "clue": "lijst voor foto"
+        },
+        {
+            "word": "framboos",
+            "clue": "rood fruit"
+        },
+        {
+            "word": "frietkraam",
+            "clue": "kraam met friet"
+        },
+        {
+            "word": "frietpan",
+            "clue": "pan voor friet"
+        },
+        {
+            "word": "frisdrank",
+            "clue": "zoete drank"
+        },
+        {
+            "word": "fruitboom",
+            "clue": "boom met fruit"
+        },
+        {
+            "word": "fruitmand",
+            "clue": "mand met fruit"
+        },
+        {
+            "word": "garage",
+            "clue": "plek voor auto"
+        },
+        {
+            "word": "gasfles",
+            "clue": "fles met gas"
+        },
+        {
+            "word": "gastspreker",
+            "clue": "spreker bij bijeenkomst"
+        },
+        {
+            "word": "gastvrij",
+            "clue": "vriendelijk voor bezoekers"
+        },
+        {
+            "word": "geboortedag",
+            "clue": "dag van geboorte"
+        },
+        {
+            "word": "geboorteplaats",
+            "clue": "plaats waar iemand geboren is"
+        },
+        {
+            "word": "gebouw",
+            "clue": "bouwwerk"
+        },
+        {
+            "word": "gedicht",
+            "clue": "korte po\u00ebtische tekst"
+        },
+        {
+            "word": "geestelijk",
+            "clue": "mentaal"
+        },
+        {
+            "word": "gehoorzaal",
+            "clue": "zaal voor publiek"
+        },
+        {
+            "word": "gekookt ei",
+            "clue": "hard of zacht ei"
+        },
+        {
+            "word": "geloof",
+            "clue": "overtuiging"
+        },
+        {
+            "word": "geluidsband",
+            "clue": "band met geluid"
+        },
+        {
+            "word": "gemak",
+            "clue": "eenvoud"
+        },
+        {
+            "word": "gemberkoek",
+            "clue": "lekkernij"
+        },
+        {
+            "word": "gemeentehuis",
+            "clue": "gebouw van gemeente"
+        },
+        {
+            "word": "genade",
+            "clue": "vergeving"
+        },
+        {
+            "word": "genetica",
+            "clue": "deel van de biologie"
+        },
+        {
+            "word": "gerecht",
+            "clue": "maaltijdonderdeel"
+        },
+        {
+            "word": "geschenk",
+            "clue": "cadeau"
+        },
+        {
+            "word": "gesprek",
+            "clue": "uitwisseling van woorden"
+        },
+        {
+            "word": "geurloos",
+            "clue": "zonder geur"
+        },
+        {
+            "word": "gevangenis",
+            "clue": "plaats voor gevangenen"
+        },
+        {
+            "word": "gewoonte",
+            "clue": "iets wat je vaak doet"
+        },
+        {
+            "word": "gids",
+            "clue": "iemand die rondleidt"
+        },
+        {
+            "word": "gieter",
+            "clue": "kan voor water"
+        },
+        {
+            "word": "glasbak",
+            "clue": "container voor glas"
+        },
+        {
+            "word": "glashelder",
+            "clue": "heel duidelijk"
+        },
+        {
+            "word": "glijbaan",
+            "clue": "speeltoestel"
+        },
+        {
+            "word": "golfslag",
+            "clue": "beweging van water"
+        },
+        {
+            "word": "gordijn",
+            "clue": "doek voor raam"
+        },
+        {
+            "word": "goudmijn",
+            "clue": "plaats met goud"
+        },
+        {
+            "word": "grachtenpand",
+            "clue": "huis aan een gracht"
+        },
+        {
+            "word": "grafsteen",
+            "clue": "steen bij graf"
+        },
+        {
+            "word": "grapjas",
+            "clue": "iemand die grappen maakt"
+        },
+        {
+            "word": "grasmaaier",
+            "clue": "apparaat voor gras"
+        },
+        {
+            "word": "grasveld",
+            "clue": "veld met gras"
+        },
+        {
+            "word": "grensgebied",
+            "clue": "gebied bij grens"
+        },
+        {
+            "word": "grenspost",
+            "clue": "controle aan de grens"
+        },
+        {
+            "word": "groenteboer",
+            "clue": "verkoper van groente"
+        },
+        {
+            "word": "groentetuin",
+            "clue": "tuin met groente"
+        },
+        {
+            "word": "grondwater",
+            "clue": "water in grond"
+        },
+        {
+            "word": "gymzaal",
+            "clue": "zaal voor sport"
+        },
+        {
+            "word": "haarborstel",
+            "clue": "borstel voor haar"
+        },
+        {
+            "word": "haardvuur",
+            "clue": "vuur in haard"
+        },
+        {
+            "word": "haarknip",
+            "clue": "knip in haar"
+        },
+        {
+            "word": "hagedis",
+            "clue": "kruipend dier"
+        },
+        {
+            "word": "halverwege",
+            "clue": "in het midden"
+        },
+        {
+            "word": "hamer",
+            "clue": "gereedschap om te slaan"
+        },
+        {
+            "word": "handdoek",
+            "clue": "doek om te drogen"
+        },
+        {
+            "word": "handschrift",
+            "clue": "manier van schrijven"
+        },
+        {
+            "word": "handtekening",
+            "clue": "geschreven naam"
+        },
+        {
+            "word": "hangmat",
+            "clue": "doek om in te liggen"
+        },
+        {
+            "word": "hardhout",
+            "clue": "sterke houtsoort"
+        },
+        {
+            "word": "hardloper",
+            "clue": "iemand die rent"
+        },
+        {
+            "word": "haring",
+            "clue": "vissoort"
+        },
+        {
+            "word": "havenstad",
+            "clue": "stad met haven"
+        },
+        {
+            "word": "hazelnoot",
+            "clue": "noot van hazelaar"
+        },
+        {
+            "word": "heelal",
+            "clue": "kosmos"
+        },
+        {
+            "word": "heideveld",
+            "clue": "veld met heide"
+        },
+        {
+            "word": "heipaal",
+            "clue": "paal in grond"
+        },
+        {
+            "word": "hekwerk",
+            "clue": "afrastering"
+        },
+        {
+            "word": "heldendaad",
+            "clue": "moedige daad"
+        },
+        {
+            "word": "herberg",
+            "clue": "oude overnachtingsplaats"
+        },
+        {
+            "word": "herdenking",
+            "clue": "moment van herinneren"
+        },
+        {
+            "word": "herfstblad",
+            "clue": "blad dat valt in herfst"
+        },
+        {
+            "word": "herfststorm",
+            "clue": "storm in herfst"
+        },
+        {
+            "word": "herhaald",
+            "clue": "nogmaals"
+        },
+        {
+            "word": "herstel",
+            "clue": "weer beter worden"
+        },
+        {
+            "word": "heuvelrug",
+            "clue": "reeks heuvels"
+        },
+        {
+            "word": "hiel",
+            "clue": "achterkant van voet"
+        },
+        {
+            "word": "hinder",
+            "clue": "last"
+        },
+        {
+            "word": "historisch",
+            "clue": "uit het verleden"
+        },
+        {
+            "word": "hobbykamer",
+            "clue": "kamer voor hobby"
+        },
+        {
+            "word": "holbewoner",
+            "clue": "mens uit oudheid"
+        },
+        {
+            "word": "hondenhok",
+            "clue": "hok voor hond"
+        },
+        {
+            "word": "honger",
+            "clue": "behoefte aan eten"
+        },
+        {
+            "word": "honingraat",
+            "clue": "structuur van bijenwas"
+        },
+        {
+            "word": "hoofdstraat",
+            "clue": "belangrijkste straat"
+        },
+        {
+            "word": "hoofdstuk",
+            "clue": "deel van een boek"
+        },
+        {
+            "word": "hoofdwerk",
+            "clue": "belangrijkste werk"
+        },
+        {
+            "word": "hoogbouw",
+            "clue": "hoge gebouwen"
+        },
+        {
+            "word": "hoorn",
+            "clue": "geluidshoorn"
+        },
+        {
+            "word": "hospitaal",
+            "clue": "ziekenhuis"
+        },
+        {
+            "word": "houtblok",
+            "clue": "blok hout"
+        },
+        {
+            "word": "houtzaag",
+            "clue": "zaag voor hout"
+        },
+        {
+            "word": "huisarts",
+            "clue": "dokter"
+        },
+        {
+            "word": "huissleutel",
+            "clue": "sleutel van huis"
+        },
+        {
+            "word": "huiswerk",
+            "clue": "werk voor school"
+        },
+        {
+            "word": "huizenkoper",
+            "clue": "iemand die huis koopt"
+        },
+        {
+            "word": "ijdel",
+            "clue": "overdreven met uiterlijk bezig"
+        },
+        {
+            "word": "ijsbaan",
+            "clue": "baan voor schaatsen"
+        },
+        {
+            "word": "ijsbeer",
+            "clue": "grote witte beer"
+        },
+        {
+            "word": "ijsberg",
+            "clue": "drijvende berg ijs"
+        },
+        {
+            "word": "ijsblokje",
+            "clue": "klein stuk ijs"
+        },
+        {
+            "word": "ijsje",
+            "clue": "bevroren lekkernij"
+        },
+        {
+            "word": "ijskast",
+            "clue": "koelkast"
+        },
+        {
+            "word": "ijsvogel",
+            "clue": "kleine vogel"
+        },
+        {
+            "word": "iland",
+            "clue": "klein eiland"
+        },
+        {
+            "word": "inkomensbron",
+            "clue": "manier om geld te verdienen"
+        },
+        {
+            "word": "inktvis",
+            "clue": "zeedier met tentakels"
+        },
+        {
+            "word": "inschrijving",
+            "clue": "offici\u00eble aanmelding"
+        },
+        {
+            "word": "jaargetijde",
+            "clue": "seizoen"
+        },
+        {
+            "word": "jaloezie",
+            "clue": "afgunst"
+        },
+        {
+            "word": "jaszak",
+            "clue": "zak in jas"
+        },
+        {
+            "word": "jeugdclub",
+            "clue": "club voor jongeren"
+        },
+        {
+            "word": "jeugdherberg",
+            "clue": "goedkope slaapplaats"
+        },
+        {
+            "word": "jeugdtijd",
+            "clue": "tijd toen je jong was"
+        },
+        {
+            "word": "jongensfiets",
+            "clue": "fiets voor jongen"
+        },
+        {
+            "word": "jongleerbal",
+            "clue": "bal om mee te jongleren"
+        },
+        {
+            "word": "journalist",
+            "clue": "schrijver van nieuws"
+        },
+        {
+            "word": "judoband",
+            "clue": "kledingstuk bij judo"
+        },
+        {
+            "word": "judopak",
+            "clue": "kleding voor judo"
+        },
+        {
+            "word": "juwelier",
+            "clue": "verkoper van sieraden"
+        },
+        {
+            "word": "kaarslicht",
+            "clue": "licht van kaars"
+        },
+        {
+            "word": "kaartspel",
+            "clue": "spel met kaarten"
+        },
+        {
+            "word": "kaasboer",
+            "clue": "verkoper van kaas"
+        },
+        {
+            "word": "kaasplank",
+            "clue": "plank met kaas"
+        },
+        {
+            "word": "kabelbaan",
+            "clue": "baan met kabels"
+        },
+        {
+            "word": "kachel",
+            "clue": "toestel voor warmte"
+        },
+        {
+            "word": "kader",
+            "clue": "omlijsting"
+        },
+        {
+            "word": "kado",
+            "clue": "geschenk"
+        },
+        {
+            "word": "kajuit",
+            "clue": "hut op een boot"
+        },
+        {
+            "word": "kalender",
+            "clue": "overzicht van dagen"
+        },
+        {
+            "word": "kamermuziek",
+            "clue": "muziek voor kleine groep"
+        },
+        {
+            "word": "kamerplant",
+            "clue": "plant in huis"
+        },
+        {
+            "word": "kano",
+            "clue": "smalle boot"
+        },
+        {
+            "word": "kantoortuin",
+            "clue": "open werkruimte"
+        },
+        {
+            "word": "kapitaal",
+            "clue": "veel geld"
+        },
+        {
+            "word": "kapstok",
+            "clue": "stok om kleding aan te hangen"
+        },
+        {
+            "word": "kasteelmuur",
+            "clue": "muur van kasteel"
+        },
+        {
+            "word": "kasteelpoort",
+            "clue": "poort van kasteel"
+        },
+        {
+            "word": "kattenbak",
+            "clue": "bak voor kat"
+        },
+        {
+            "word": "keelklank",
+            "clue": "geluid uit keel"
+        },
+        {
+            "word": "keukengerei",
+            "clue": "spullen in de keuken"
+        },
+        {
+            "word": "keukenlade",
+            "clue": "lade in keuken"
+        },
+        {
+            "word": "keukentafel",
+            "clue": "tafel in keuken"
+        },
+        {
+            "word": "keurslijf",
+            "clue": "strak kledingstuk"
+        },
+        {
+            "word": "kikkerdril",
+            "clue": "eitjes van kikker"
+        },
+        {
+            "word": "kinderarts",
+            "clue": "dokter voor kinderen"
+        },
+        {
+            "word": "kinderboek",
+            "clue": "boek voor kinderen"
+        },
+        {
+            "word": "kinderkamer",
+            "clue": "kamer voor kind"
+        },
+        {
+            "word": "kinderstoel",
+            "clue": "stoel voor een kind"
+        },
+        {
+            "word": "kindertijd",
+            "clue": "jeugd"
+        },
+        {
+            "word": "kinderwagen",
+            "clue": "wagen voor baby"
+        },
+        {
+            "word": "klapstoel",
+            "clue": "opvouwbare stoel"
+        },
+        {
+            "word": "kledingkast",
+            "clue": "kast voor kleding"
+        },
+        {
+            "word": "kleermaker",
+            "clue": "maker van kleding"
+        },
+        {
+            "word": "klei",
+            "clue": "zachte grondsoort"
+        },
+        {
+            "word": "kleuterschool",
+            "clue": "school voor jonge kinderen"
+        },
+        {
+            "word": "klimrek",
+            "clue": "rek om in te klimmen"
+        },
+        {
+            "word": "klokhuis",
+            "clue": "hart van een appel"
+        },
+        {
+            "word": "klokkenluider",
+            "clue": "persoon die misstanden meldt"
+        },
+        {
+            "word": "klokkentoren",
+            "clue": "toren met klok"
+        },
+        {
+            "word": "knalvuurwerk",
+            "clue": "vuurwerk dat knalt"
+        },
+        {
+            "word": "knie",
+            "clue": "gewricht van been"
+        },
+        {
+            "word": "knijper",
+            "clue": "klem"
+        },
+        {
+            "word": "knoflook",
+            "clue": "kruidige bol"
+        },
+        {
+            "word": "knooppunt",
+            "clue": "kruising van wegen"
+        },
+        {
+            "word": "knopen",
+            "clue": "vastmaken met knoop"
+        },
+        {
+            "word": "knutselwerk",
+            "clue": "zelfgemaakt werk"
+        },
+        {
+            "word": "koeienstal",
+            "clue": "stal voor koeien"
+        },
+        {
+            "word": "koelkast",
+            "clue": "kast die koelt"
+        },
+        {
+            "word": "koelkastdeur",
+            "clue": "deur van koelkast"
+        },
+        {
+            "word": "koersfiets",
+            "clue": "fiets voor sport"
+        },
+        {
+            "word": "koets",
+            "clue": "voertuig met paarden"
+        },
+        {
+            "word": "koetsier",
+            "clue": "bestuurder van een koets"
+        },
+        {
+            "word": "koffer",
+            "clue": "tas om mee te reizen"
+        },
+        {
+            "word": "koffiepot",
+            "clue": "pot voor koffie"
+        },
+        {
+            "word": "koffietafel",
+            "clue": "tafel met koffie"
+        },
+        {
+            "word": "kogel",
+            "clue": "metalen projectiel"
+        },
+        {
+            "word": "koksmuts",
+            "clue": "hoed van kok"
+        },
+        {
+            "word": "kolenkit",
+            "clue": "bak voor kolen"
+        },
+        {
+            "word": "kompas",
+            "clue": "instrument voor richting"
+        },
+        {
+            "word": "koningsdag",
+            "clue": "nationale feestdag"
+        },
+        {
+            "word": "koningskroon",
+            "clue": "kroon van een koning"
+        },
+        {
+            "word": "koninkrijk",
+            "clue": "land met koning"
+        },
+        {
+            "word": "kookboek",
+            "clue": "boek met recepten"
+        },
+        {
+            "word": "koopkracht",
+            "clue": "wat iemand kan kopen"
+        },
+        {
+            "word": "koopman",
+            "clue": "handelaar"
+        },
+        {
+            "word": "koor",
+            "clue": "groep die zingt"
+        },
+        {
+            "word": "koord",
+            "clue": "touw"
+        },
+        {
+            "word": "korfbal",
+            "clue": "sport met manden"
+        },
+        {
+            "word": "korting",
+            "clue": "vermindering van prijs"
+        },
+        {
+            "word": "koudwaterkraan",
+            "clue": "kraan voor koud water"
+        },
+        {
+            "word": "kraanvogel",
+            "clue": "vogelsoort"
+        },
+        {
+            "word": "krant",
+            "clue": "gedrukt nieuwsblad"
+        },
+        {
+            "word": "krantenkop",
+            "clue": "titel in de krant"
+        },
+        {
+            "word": "kreeft",
+            "clue": "schaaldiersoort"
+        },
+        {
+            "word": "kringloop",
+            "clue": "hergebruik"
+        },
+        {
+            "word": "kroeg",
+            "clue": "caf\u00e9"
+        },
+        {
+            "word": "kroket",
+            "clue": "gefrituurde snack"
+        },
+        {
+            "word": "kroonluchter",
+            "clue": "hanglamp met armen"
+        },
+        {
+            "word": "kruidenier",
+            "clue": "kleine winkelier"
+        },
+        {
+            "word": "kruidenkast",
+            "clue": "kast voor kruiden"
+        },
+        {
+            "word": "kudde",
+            "clue": "groep dieren"
+        },
+        {
+            "word": "kunsthal",
+            "clue": "gebouw voor kunst"
+        },
+        {
+            "word": "kunstwerk",
+            "clue": "werk van kunst"
+        },
+        {
+            "word": "kustlijn",
+            "clue": "grens tussen land en zee"
+        },
+        {
+            "word": "laadklep",
+            "clue": "klep om te laden"
+        },
+        {
+            "word": "laadpaal",
+            "clue": "paal voor opladen"
+        },
+        {
+            "word": "laars",
+            "clue": "hoge schoen"
+        },
+        {
+            "word": "lading",
+            "clue": "vracht"
+        },
+        {
+            "word": "lampenkap",
+            "clue": "kap op een lamp"
+        },
+        {
+            "word": "lampolie",
+            "clue": "olie voor lamp"
+        },
+        {
+            "word": "landbouw",
+            "clue": "werk op het land"
+        },
+        {
+            "word": "landbouwgrond",
+            "clue": "grond voor landbouw"
+        },
+        {
+            "word": "landgrens",
+            "clue": "grens van een land"
+        },
+        {
+            "word": "landhuis",
+            "clue": "groot huis buiten"
+        },
+        {
+            "word": "landkaart",
+            "clue": "kaart van een gebied"
+        },
+        {
+            "word": "landschap",
+            "clue": "uitzicht over gebied"
+        },
+        {
+            "word": "landweg",
+            "clue": "weg op het platteland"
+        },
+        {
+            "word": "langlauf",
+            "clue": "ski\u00ebn op vlak terrein"
+        },
+        {
+            "word": "langspeelplaat",
+            "clue": "grote grammofoonplaat"
+        },
+        {
+            "word": "lantern",
+            "clue": "lantaarn"
+        },
+        {
+            "word": "laptop",
+            "clue": "draagbare computer"
+        },
+        {
+            "word": "lasapparaat",
+            "clue": "apparaat om te lassen"
+        },
+        {
+            "word": "laserpen",
+            "clue": "pen met lichtstraal"
+        },
+        {
+            "word": "lastdier",
+            "clue": "dier dat draagt"
+        },
+        {
+            "word": "lawaai",
+            "clue": "hard geluid"
+        },
+        {
+            "word": "leerboek",
+            "clue": "boek om uit te leren"
+        },
+        {
+            "word": "leerling",
+            "clue": "iemand die leert"
+        },
+        {
+            "word": "leestafel",
+            "clue": "tafel met boeken of kranten"
+        },
+        {
+            "word": "lepel",
+            "clue": "eetgereedschap"
+        },
+        {
+            "word": "leuning",
+            "clue": "steun langs trap"
+        },
+        {
+            "word": "levenslied",
+            "clue": "emotioneel lied"
+        },
+        {
+            "word": "levensloop",
+            "clue": "verloop van iemands leven"
+        },
+        {
+            "word": "levensmiddel",
+            "clue": "voedsel of drank"
+        },
+        {
+            "word": "leverancier",
+            "clue": "iemand die levert"
+        },
+        {
+            "word": "lichtbron",
+            "clue": "bron van licht"
+        },
+        {
+            "word": "lichtknop",
+            "clue": "knop voor licht"
+        },
+        {
+            "word": "lichtpunt",
+            "clue": "klein straaltje hoop"
+        },
+        {
+            "word": "lichtstraal",
+            "clue": "smalle bundel licht"
+        },
+        {
+            "word": "lievelingsdier",
+            "clue": "dier dat je het liefst hebt"
+        },
+        {
+            "word": "lievelingskleur",
+            "clue": "kleur die je het mooist vindt"
+        },
+        {
+            "word": "liftdeur",
+            "clue": "deur van een lift"
+        },
+        {
+            "word": "lijfwacht",
+            "clue": "persoonlijke beschermer"
+        },
+        {
+            "word": "lijm",
+            "clue": "plakkende vloeistof"
+        },
+        {
+            "word": "lijmkwast",
+            "clue": "kwast om lijm te smeren"
+        },
+        {
+            "word": "lijnbus",
+            "clue": "bus op vaste lijn"
+        },
+        {
+            "word": "linde",
+            "clue": "boomsoort"
+        },
+        {
+            "word": "linkerhand",
+            "clue": "hand links"
+        },
+        {
+            "word": "lippenstift",
+            "clue": "cosmetica voor lippen"
+        },
+        {
+            "word": "literatuur",
+            "clue": "geschreven kunst"
+        },
+        {
+            "word": "loodgieter",
+            "clue": "vakman voor leidingen"
+        },
+        {
+            "word": "loodlijn",
+            "clue": "rechte lijn"
+        },
+        {
+            "word": "loods",
+            "clue": "groot gebouw voor opslag"
+        },
+        {
+            "word": "luchtballon",
+            "clue": "ballon die vliegt"
+        },
+        {
+            "word": "luchtbed",
+            "clue": "opblaasbaar bed"
+        },
+        {
+            "word": "luchtbrug",
+            "clue": "brug door de lucht"
+        },
+        {
+            "word": "luchtfoto",
+            "clue": "foto van boven"
+        },
+        {
+            "word": "luchtpijp",
+            "clue": "buis om te ademen"
+        },
+        {
+            "word": "luchtvaart",
+            "clue": "vliegen met vliegtuigen"
+        },
+        {
+            "word": "luchtverkeer",
+            "clue": "verkeer in de lucht"
+        },
+        {
+            "word": "luifel",
+            "clue": "afdak"
+        },
+        {
+            "word": "luik",
+            "clue": "opening met klep"
+        },
+        {
+            "word": "luisterboek",
+            "clue": "boek dat wordt voorgelezen"
+        },
+        {
+            "word": "luizenmoeder",
+            "clue": "moeder die school helpt"
+        },
+        {
+            "word": "lunchpakket",
+            "clue": "eten mee voor lunch"
+        },
+        {
+            "word": "maalsteen",
+            "clue": "steen om te malen"
+        },
+        {
+            "word": "maaltijd",
+            "clue": "eten"
+        },
+        {
+            "word": "maan",
+            "clue": "hemellichaam"
+        },
+        {
+            "word": "maandblad",
+            "clue": "tijdschrift dat maandelijks uitkomt"
+        },
+        {
+            "word": "maanlandschap",
+            "clue": "landschap op de maan"
+        },
+        {
+            "word": "maanlicht",
+            "clue": "licht van de maan"
+        },
+        {
+            "word": "maansteen",
+            "clue": "steen van de maan"
+        },
+        {
+            "word": "maartse buien",
+            "clue": "regen in maart"
+        },
+        {
+            "word": "maatbeker",
+            "clue": "beker met maat"
+        },
+        {
+            "word": "maatpak",
+            "clue": "net pak"
+        },
+        {
+            "word": "maatregel",
+            "clue": "besluit"
+        },
+        {
+            "word": "maatschappij",
+            "clue": "samenleving"
+        },
+        {
+            "word": "machinekamer",
+            "clue": "kamer met machines"
+        },
+        {
+            "word": "maffia",
+            "clue": "geheime misdaadgroep"
+        },
+        {
+            "word": "magazijn",
+            "clue": "opslagruimte"
+        },
+        {
+            "word": "magnetron",
+            "clue": "oven voor snel verwarmen"
+        },
+        {
+            "word": "makelaar",
+            "clue": "bemiddelaar bij huizen"
+        },
+        {
+            "word": "makkelijk",
+            "clue": "eenvoudig"
+        },
+        {
+            "word": "mal",
+            "clue": "vorm"
+        },
+        {
+            "word": "mandoline",
+            "clue": "muziekinstrument"
+        },
+        {
+            "word": "mantelpak",
+            "clue": "net pak voor vrouwen"
+        },
+        {
+            "word": "manuscript",
+            "clue": "handgeschreven tekst"
+        },
+        {
+            "word": "marktkoopman",
+            "clue": "verkoper op markt"
+        },
+        {
+            "word": "marktkraam",
+            "clue": "kraam op markt"
+        },
+        {
+            "word": "marktplaats",
+            "clue": "plek om te verkopen"
+        },
+        {
+            "word": "marsmannetje",
+            "clue": "denkbeeldig buitenaards wezen"
+        },
+        {
+            "word": "masker",
+            "clue": "bedekking voor gezicht"
+        },
+        {
+            "word": "massagestoel",
+            "clue": "stoel voor massage"
+        },
+        {
+            "word": "materiaal",
+            "clue": "grondstof"
+        },
+        {
+            "word": "matras",
+            "clue": "zachte onderlaag om op te slapen"
+        },
+        {
+            "word": "matroos",
+            "clue": "bemanningslid van schip"
+        },
+        {
+            "word": "ma\u00efskolf",
+            "clue": "kolf van ma\u00efs"
+        },
+        {
+            "word": "medeklinker",
+            "clue": "niet-klinker"
+        },
+        {
+            "word": "medewerker",
+            "clue": "collega"
+        },
+        {
+            "word": "medicijn",
+            "clue": "geneesmiddel"
+        },
+        {
+            "word": "medicijnkast",
+            "clue": "kast met medicijnen"
+        },
+        {
+            "word": "meelzak",
+            "clue": "zak met meel"
+        },
+        {
+            "word": "meermin",
+            "clue": "fabelwezen"
+        },
+        {
+            "word": "meesterwerk",
+            "clue": "groot kunstwerk"
+        },
+        {
+            "word": "melkboer",
+            "clue": "verkoper van melk"
+        },
+        {
+            "word": "melkbus",
+            "clue": "bus voor melk"
+        },
+        {
+            "word": "melkkoe",
+            "clue": "koe die melk geeft"
+        },
+        {
+            "word": "melkproduct",
+            "clue": "product van melk"
+        },
+        {
+            "word": "melkweg",
+            "clue": "sterrenstelsel"
+        },
+        {
+            "word": "melodie",
+            "clue": "reeks tonen"
+        },
+        {
+            "word": "menselijk",
+            "clue": "van mensen"
+        },
+        {
+            "word": "mensheid",
+            "clue": "alle mensen samen"
+        },
+        {
+            "word": "menu",
+            "clue": "lijst met gerechten"
+        },
+        {
+            "word": "metaal",
+            "clue": "hard materiaal"
+        },
+        {
+            "word": "meterkast",
+            "clue": "kast voor stroom"
+        },
+        {
+            "word": "meubelmaker",
+            "clue": "maker van meubels"
+        },
+        {
+            "word": "meubelzaak",
+            "clue": "winkel voor meubels"
+        },
+        {
+            "word": "middelbaar",
+            "clue": "tussenlaag"
+        },
+        {
+            "word": "middeleeuwen",
+            "clue": "historische periode"
+        },
+        {
+            "word": "middenrif",
+            "clue": "spier in lichaam"
+        },
+        {
+            "word": "middenstuk",
+            "clue": "centraal deel"
+        },
+        {
+            "word": "middenweg",
+            "clue": "compromis"
+        },
+        {
+            "word": "mierenhoop",
+            "clue": "nest van mieren"
+        },
+        {
+            "word": "migratie",
+            "clue": "verhuizing van mensen"
+        },
+        {
+            "word": "mikpunt",
+            "clue": "doelwit"
+        },
+        {
+            "word": "militair",
+            "clue": "soldaat"
+        },
+        {
+            "word": "minderheid",
+            "clue": "kleinere groep"
+        },
+        {
+            "word": "minuutwijzer",
+            "clue": "wijzer van klok"
+        },
+        {
+            "word": "misdrijf",
+            "clue": "strafbaar feit"
+        },
+        {
+            "word": "missie",
+            "clue": "opdracht"
+        },
+        {
+            "word": "mobiele telefoon",
+            "clue": "draagbare telefoon"
+        },
+        {
+            "word": "mobieltje",
+            "clue": "mobiele telefoon"
+        },
+        {
+            "word": "modelvliegtuig",
+            "clue": "klein vliegtuig"
+        },
+        {
+            "word": "moderne kunst",
+            "clue": "kunst uit recente tijd"
+        },
+        {
+            "word": "modezaak",
+            "clue": "winkel voor kleding"
+        },
+        {
+            "word": "moederdag",
+            "clue": "dag voor moeders"
+        },
+        {
+            "word": "moedertaal",
+            "clue": "eerste taal"
+        },
+        {
+            "word": "mol",
+            "clue": "graafdiertje"
+        },
+        {
+            "word": "molensteen",
+            "clue": "steen van molen"
+        },
+        {
+            "word": "momentopname",
+            "clue": "korte weergave"
+        },
+        {
+            "word": "monnik",
+            "clue": "religieus man"
+        },
+        {
+            "word": "monument",
+            "clue": "gedenkteken"
+        },
+        {
+            "word": "moordzaak",
+            "clue": "onderzoek naar moord"
+        },
+        {
+            "word": "mossel",
+            "clue": "schelpdier"
+        },
+        {
+            "word": "motorfiets",
+            "clue": "tweewielig voertuig"
+        },
+        {
+            "word": "motorhelm",
+            "clue": "helm voor motor"
+        },
+        {
+            "word": "motorrit",
+            "clue": "rit op motor"
+        },
+        {
+            "word": "muiden",
+            "clue": "plaats in Noord-Holland"
+        },
+        {
+            "word": "muizenval",
+            "clue": "val voor muizen"
+        },
+        {
+            "word": "museum",
+            "clue": "gebouw voor kunst of historie"
+        },
+        {
+            "word": "museumzaal",
+            "clue": "ruimte in museum"
+        },
+        {
+            "word": "muts",
+            "clue": "hoofddeksel van wol"
+        },
+        {
+            "word": "muziekdoos",
+            "clue": "doos die muziek speelt"
+        },
+        {
+            "word": "muziekinstrument",
+            "clue": "instrument voor muziek"
+        },
+        {
+            "word": "muziekles",
+            "clue": "les in muziek"
+        },
+        {
+            "word": "muziekschool",
+            "clue": "school voor muziek"
+        },
+        {
+            "word": "muziekstuk",
+            "clue": "compositie"
+        },
+        {
+            "word": "naald",
+            "clue": "dun metalen staafje"
+        },
+        {
+            "word": "naaldbos",
+            "clue": "bos met naaldbomen"
+        },
+        {
+            "word": "naambord",
+            "clue": "bord met naam"
+        },
+        {
+            "word": "nachtlampje",
+            "clue": "klein lampje"
+        },
+        {
+            "word": "nachtrust",
+            "clue": "slaap in de nacht"
+        },
+        {
+            "word": "nachtvlinder",
+            "clue": "vlinder die \u2019s nachts vliegt"
+        },
+        {
+            "word": "nachtwacht",
+            "clue": "schilderij van Rembrandt"
+        },
+        {
+            "word": "nagelvijl",
+            "clue": "vijl voor nagels"
+        },
+        {
+            "word": "natuurgebied",
+            "clue": "beschermd gebied"
+        },
+        {
+            "word": "natuurwet",
+            "clue": "wet uit natuurkunde"
+        },
+        {
+            "word": "navel",
+            "clue": "punt op buik"
+        },
+        {
+            "word": "navolging",
+            "clue": "iemand nadoen"
+        },
+        {
+            "word": "neef",
+            "clue": "familielid"
+        },
+        {
+            "word": "neerlandicus",
+            "clue": "specialist in Nederlands"
+        },
+        {
+            "word": "neerslag",
+            "clue": "regen of sneeuw"
+        },
+        {
+            "word": "netwerk",
+            "clue": "systeem van verbindingen"
+        },
+        {
+            "word": "neveneffect",
+            "clue": "bijwerking"
+        },
+        {
+            "word": "nieuwbouw",
+            "clue": "nieuw gebouw"
+        },
+        {
+            "word": "nieuwsbericht",
+            "clue": "kort nieuws"
+        },
+        {
+            "word": "nieuwslezing",
+            "clue": "voorlezen van nieuws"
+        },
+        {
+            "word": "nijptang",
+            "clue": "tang om te knijpen"
+        },
+        {
+            "word": "nijverheid",
+            "clue": "industrie"
+        },
+        {
+            "word": "noodknop",
+            "clue": "knop voor nood"
+        },
+        {
+            "word": "nooduitgang",
+            "clue": "uitgang bij nood"
+        },
+        {
+            "word": "nootmuskaat",
+            "clue": "specerij"
+        },
+        {
+            "word": "notenbalk",
+            "clue": "lijnen voor muzieknoten"
+        },
+        {
+            "word": "notenkraker",
+            "clue": "tang om noten te kraken"
+        },
+        {
+            "word": "notitieboek",
+            "clue": "boekje om te schrijven"
+        },
+        {
+            "word": "novelle",
+            "clue": "kort verhaal"
+        },
+        {
+            "word": "nummerplaat",
+            "clue": "kenteken"
+        },
+        {
+            "word": "oase",
+            "clue": "vruchtbare plek in woestijn"
+        },
+        {
+            "word": "oceaan",
+            "clue": "grote zee"
+        },
+        {
+            "word": "oceaandamp",
+            "clue": "mist boven zee"
+        },
+        {
+            "word": "ochtendgloren",
+            "clue": "begin van de dag"
+        },
+        {
+            "word": "ochtendjas",
+            "clue": "jas voor in de ochtend"
+        },
+        {
+            "word": "ochtendspits",
+            "clue": "druk verkeer"
+        },
+        {
+            "word": "octaaf",
+            "clue": "toonafstand in muziek"
+        },
+        {
+            "word": "offer",
+            "clue": "gave aan goden"
+        },
+        {
+            "word": "officier",
+            "clue": "hoge militair"
+        },
+        {
+            "word": "olielamp",
+            "clue": "lamp met olie"
+        },
+        {
+            "word": "olieveld",
+            "clue": "veld met olie"
+        },
+        {
+            "word": "olijfboom",
+            "clue": "boom met olijven"
+        },
+        {
+            "word": "oma",
+            "clue": "grootmoeder"
+        },
+        {
+            "word": "omleiding",
+            "clue": "andere route"
+        },
+        {
+            "word": "omroep",
+            "clue": "zender"
+        },
+        {
+            "word": "omslag",
+            "clue": "kaft van een boek"
+        },
+        {
+            "word": "omtrek",
+            "clue": "rand van iets"
+        },
+        {
+            "word": "onderdeel",
+            "clue": "klein stuk"
+        },
+        {
+            "word": "ondergang",
+            "clue": "neergang"
+        },
+        {
+            "word": "ondergrond",
+            "clue": "bodem"
+        },
+        {
+            "word": "onderhoud",
+            "clue": "zorg"
+        },
+        {
+            "word": "onderwijs",
+            "clue": "lesgeven"
+        },
+        {
+            "word": "onderzee\u00ebr",
+            "clue": "vaartuig onder water"
+        },
+        {
+            "word": "onderzoeker",
+            "clue": "iemand die onderzoekt"
+        },
+        {
+            "word": "ongeval",
+            "clue": "ongeluk"
+        },
+        {
+            "word": "onkruid",
+            "clue": "ongewenst plantje"
+        },
+        {
+            "word": "onrecht",
+            "clue": "oneerlijkheid"
+        },
+        {
+            "word": "ontbijt",
+            "clue": "eerste maaltijd van de dag"
+        },
+        {
+            "word": "ontdekkingsreis",
+            "clue": "grote reis"
+        },
+        {
+            "word": "ontmoeting",
+            "clue": "samenkomst"
+        },
+        {
+            "word": "ontsnapping",
+            "clue": "wegkomen"
+        },
+        {
+            "word": "ontvangst",
+            "clue": "welkom"
+        },
+        {
+            "word": "ontwerper",
+            "clue": "iemand die iets ontwerpt"
+        },
+        {
+            "word": "oogappel",
+            "clue": "geliefd persoon"
+        },
+        {
+            "word": "oogarts",
+            "clue": "arts voor ogen"
+        },
+        {
+            "word": "ooggetuige",
+            "clue": "iemand die iets ziet"
+        },
+        {
+            "word": "oogst",
+            "clue": "het binnenhalen van gewassen"
+        },
+        {
+            "word": "oorlog",
+            "clue": "gewapend conflict"
+        },
+        {
+            "word": "oorlogsfilm",
+            "clue": "film over oorlog"
+        },
+        {
+            "word": "oorlogsheld",
+            "clue": "held in oorlog"
+        },
+        {
+            "word": "oorlogsvloot",
+            "clue": "vloot in oorlog"
+        },
+        {
+            "word": "oorzaak",
+            "clue": "reden"
+        },
+        {
+            "word": "opa",
+            "clue": "grootvader"
+        },
+        {
+            "word": "openbare ruimte",
+            "clue": "plek voor iedereen"
+        },
+        {
+            "word": "openingsdans",
+            "clue": "eerste dans"
+        },
+        {
+            "word": "openluchtconcert",
+            "clue": "concert buiten"
+        },
+        {
+            "word": "opera",
+            "clue": "zangstuk met orkest"
+        },
+        {
+            "word": "opkomst",
+            "clue": "aantal mensen"
+        },
+        {
+            "word": "oplossing",
+            "clue": "antwoord"
+        },
+        {
+            "word": "oprit",
+            "clue": "weg naar huis"
+        },
+        {
+            "word": "opstel",
+            "clue": "korte tekst"
+        },
+        {
+            "word": "opstopping",
+            "clue": "file"
+        },
+        {
+            "word": "optocht",
+            "clue": "stoet van mensen"
+        },
+        {
+            "word": "optreden",
+            "clue": "optreden van artiest"
+        },
+        {
+            "word": "opvatting",
+            "clue": "mening"
+        },
+        {
+            "word": "oranjezon",
+            "clue": "ondergaande zon"
+        },
+        {
+            "word": "orde",
+            "clue": "regelmaat"
+        },
+        {
+            "word": "ordehandhaving",
+            "clue": "toezicht op regels"
+        },
+        {
+            "word": "ordening",
+            "clue": "structuur"
+        },
+        {
+            "word": "orkest",
+            "clue": "groep muzikanten"
+        },
+        {
+            "word": "ouderschap",
+            "clue": "het hebben van kinderen"
+        },
+        {
+            "word": "ouderwets",
+            "clue": "van vroeger"
+        },
+        {
+            "word": "oven",
+            "clue": "kooktoestel"
+        },
+        {
+            "word": "overgang",
+            "clue": "verandering"
+        },
+        {
+            "word": "overheid",
+            "clue": "bestuur"
+        },
+        {
+            "word": "overstroming",
+            "clue": "te veel water"
+        },
+        {
+            "word": "overtreding",
+            "clue": "overtreden van regel"
+        },
+        {
+            "word": "overval",
+            "clue": "plotselinge aanval"
+        },
+        {
+            "word": "overwinning",
+            "clue": "triomf"
+        },
+        {
+            "word": "pakket",
+            "clue": "verzameling spullen"
+        },
+        {
+            "word": "pakpapier",
+            "clue": "papier om cadeaus in te pakken"
+        },
+        {
+            "word": "paleis",
+            "clue": "groot huis voor koning"
+        },
+        {
+            "word": "palet",
+            "clue": "bord voor verf"
+        },
+        {
+            "word": "pannendak",
+            "clue": "dak met pannen"
+        },
+        {
+            "word": "pantoffel",
+            "clue": "zachte schoen"
+        },
+        {
+            "word": "parade",
+            "clue": "optocht"
+        },
+        {
+            "word": "paraplu",
+            "clue": "bescherming tegen regen"
+        },
+        {
+            "word": "parkbank",
+            "clue": "bank in park"
+        },
+        {
+            "word": "parkeerkaart",
+            "clue": "kaartje voor parkeren"
+        },
+        {
+            "word": "parkeerplaats",
+            "clue": "plek om te parkeren"
+        },
+        {
+            "word": "partner",
+            "clue": "metgezel"
+        },
+        {
+            "word": "paspoort",
+            "clue": "reisdocument"
+        },
+        {
+            "word": "passagier",
+            "clue": "reiziger"
+        },
+        {
+            "word": "pastoor",
+            "clue": "katholieke geestelijke"
+        },
+        {
+            "word": "patroon",
+            "clue": "herhalend motief"
+        },
+        {
+            "word": "paviljoen",
+            "clue": "klein gebouw"
+        },
+        {
+            "word": "pedaal",
+            "clue": "trapstuk van fiets of piano"
+        },
+        {
+            "word": "pedagogiek",
+            "clue": "opvoedkunde"
+        },
+        {
+            "word": "pekel",
+            "clue": "zout water"
+        },
+        {
+            "word": "pennenzak",
+            "clue": "etui"
+        },
+        {
+            "word": "penvriend",
+            "clue": "vriend via brieven"
+        },
+        {
+            "word": "pepermolen",
+            "clue": "molen voor peper"
+        },
+        {
+            "word": "perron",
+            "clue": "plek voor trein"
+        },
+        {
+            "word": "persbericht",
+            "clue": "officieel bericht"
+        },
+        {
+            "word": "personeel",
+            "clue": "werknemers"
+        },
+        {
+            "word": "persoon",
+            "clue": "individu"
+        },
+        {
+            "word": "peulvrucht",
+            "clue": "boon of erwt"
+        },
+        {
+            "word": "pianoles",
+            "clue": "les in piano spelen"
+        },
+        {
+            "word": "pianostemmer",
+            "clue": "iemand die piano stemt"
+        },
+        {
+            "word": "picknick",
+            "clue": "eten buitenshuis"
+        },
+        {
+            "word": "pier",
+            "clue": "steiger in zee"
+        },
+        {
+            "word": "pijpleiding",
+            "clue": "buis voor vloeistof"
+        },
+        {
+            "word": "piloot",
+            "clue": "bestuurder van vliegtuig"
+        },
+        {
+            "word": "pingu\u00efn",
+            "clue": "zwart-witte vogel"
+        },
+        {
+            "word": "pionier",
+            "clue": "ontdekker"
+        },
+        {
+            "word": "piramide",
+            "clue": "bouwwerk in Egypte"
+        },
+        {
+            "word": "plaatsnaam",
+            "clue": "naam van plaats"
+        },
+        {
+            "word": "plaatwerk",
+            "clue": "metalen platen"
+        },
+        {
+            "word": "plafond",
+            "clue": "bovenkant van kamer"
+        },
+        {
+            "word": "plantage",
+            "clue": "groot landbouwgebied"
+        },
+        {
+            "word": "plantensoort",
+            "clue": "type plant"
+        },
+        {
+            "word": "plantsoen",
+            "clue": "openbaar groen"
+        },
+        {
+            "word": "plasticzak",
+            "clue": "zak van plastic"
+        },
+        {
+            "word": "pleeggezin",
+            "clue": "gezin dat opvangt"
+        },
+        {
+            "word": "plein",
+            "clue": "open ruimte in stad"
+        },
+        {
+            "word": "pleister",
+            "clue": "plakstrip bij wond"
+        },
+        {
+            "word": "plezier",
+            "clue": "genoegen"
+        },
+        {
+            "word": "ploeg",
+            "clue": "groep mensen"
+        },
+        {
+            "word": "plot",
+            "clue": "verhaallijn"
+        },
+        {
+            "word": "plunjezak",
+            "clue": "tas met kleding"
+        },
+        {
+            "word": "podium",
+            "clue": "verhoging voor optreden"
+        },
+        {
+            "word": "polder",
+            "clue": "drooggelegd land"
+        },
+        {
+            "word": "politieauto",
+            "clue": "auto van politie"
+        },
+        {
+            "word": "politiehond",
+            "clue": "hond van politie"
+        },
+        {
+            "word": "pompoen",
+            "clue": "ronde vrucht"
+        },
+        {
+            "word": "poncho",
+            "clue": "regencape"
+        },
+        {
+            "word": "popconcert",
+            "clue": "concert met popmuziek"
+        },
+        {
+            "word": "poppenkast",
+            "clue": "klein theater"
+        },
+        {
+            "word": "porselein",
+            "clue": "fijn aardewerk"
+        },
+        {
+            "word": "portemonnee",
+            "clue": "tasje voor geld"
+        },
+        {
+            "word": "portiek",
+            "clue": "ingang van gebouw"
+        },
+        {
+            "word": "portier",
+            "clue": "deur van auto"
+        },
+        {
+            "word": "portret",
+            "clue": "afbeelding van persoon"
+        },
+        {
+            "word": "postbode",
+            "clue": "bezorger van post"
+        },
+        {
+            "word": "postduif",
+            "clue": "duif die post brengt"
+        },
+        {
+            "word": "postkantoor",
+            "clue": "gebouw voor post"
+        },
+        {
+            "word": "postzegel",
+            "clue": "klein plakplaatje"
+        },
+        {
+            "word": "potlood",
+            "clue": "schrijfstaafje"
+        },
+        {
+            "word": "po\u00ebzie",
+            "clue": "gedichten"
+        },
+        {
+            "word": "praatprogramma",
+            "clue": "tv-programma met gesprekken"
+        },
+        {
+            "word": "praatstoel",
+            "clue": "kansel"
+        },
+        {
+            "word": "prauw",
+            "clue": "kleine boot"
+        },
+        {
+            "word": "precies",
+            "clue": "exact"
+        },
+        {
+            "word": "predikant",
+            "clue": "dominee"
+        },
+        {
+            "word": "presentator",
+            "clue": "iemand die presenteert"
+        },
+        {
+            "word": "prijskaartje",
+            "clue": "kaartje met prijs"
+        },
+        {
+            "word": "prikkeldraad",
+            "clue": "draad met punten"
+        },
+        {
+            "word": "primeur",
+            "clue": "nieuwtje"
+        },
+        {
+            "word": "prins",
+            "clue": "zoon van koning"
+        },
+        {
+            "word": "prinses",
+            "clue": "dochter van koning"
+        },
+        {
+            "word": "printer",
+            "clue": "apparaat dat print"
+        },
+        {
+            "word": "probleem",
+            "clue": "moeilijkheid"
+        },
+        {
+            "word": "proces",
+            "clue": "verloop"
+        },
+        {
+            "word": "product",
+            "clue": "voortgebracht goed"
+        },
+        {
+            "word": "proefwerk",
+            "clue": "toets"
+        },
+        {
+            "word": "professor",
+            "clue": "hoge leraar"
+        },
+        {
+            "word": "programma",
+            "clue": "lijst met onderdelen"
+        },
+        {
+            "word": "project",
+            "clue": "gepland werk"
+        },
+        {
+            "word": "prooi",
+            "clue": "wat opgegeten wordt"
+        },
+        {
+            "word": "protest",
+            "clue": "verzet"
+        },
+        {
+            "word": "provincie",
+            "clue": "deel van land"
+        },
+        {
+            "word": "pruimenboom",
+            "clue": "boom met pruimen"
+        },
+        {
+            "word": "prullenbak",
+            "clue": "bak voor afval"
+        },
+        {
+            "word": "publicatie",
+            "clue": "uitgave"
+        },
+        {
+            "word": "publiek",
+            "clue": "toeschouwers"
+        },
+        {
+            "word": "puzzel",
+            "clue": "spel om op te lossen"
+        },
+        {
+            "word": "pyjama",
+            "clue": "slaapkleding"
+        },
+        {
+            "word": "raadsel",
+            "clue": "moeilijke vraag"
+        },
+        {
+            "word": "radio",
+            "clue": "toestel voor geluid"
+        },
+        {
+            "word": "radslag",
+            "clue": "gymnastische sprong"
+        },
+        {
+            "word": "rail",
+            "clue": "spoorstaaf"
+        },
+        {
+            "word": "raket",
+            "clue": "voertuig dat vliegt"
+        },
+        {
+            "word": "ramenwasser",
+            "clue": "schoonmaker van ramen"
+        },
+        {
+            "word": "ramp",
+            "clue": "grote ellende"
+        },
+        {
+            "word": "randstad",
+            "clue": "stedelijk gebied"
+        },
+        {
+            "word": "rapport",
+            "clue": "verslag"
+        },
+        {
+            "word": "ras",
+            "clue": "soort"
+        },
+        {
+            "word": "ratel",
+            "clue": "rammelend instrument"
+        },
+        {
+            "word": "reclame",
+            "clue": "aanprijzing"
+        },
+        {
+            "word": "rector",
+            "clue": "schoolhoofd"
+        },
+        {
+            "word": "rederij",
+            "clue": "scheepvaartbedrijf"
+        },
+        {
+            "word": "reeks",
+            "clue": "rij van dingen"
+        },
+        {
+            "word": "regelmaat",
+            "clue": "vaste structuur"
+        },
+        {
+            "word": "regenbui",
+            "clue": "korte regen"
+        },
+        {
+            "word": "regenjas",
+            "clue": "jas tegen regen"
+        },
+        {
+            "word": "regisseur",
+            "clue": "leider van film"
+        },
+        {
+            "word": "reikstok",
+            "clue": "stok om bij te komen"
+        },
+        {
+            "word": "reiskoffer",
+            "clue": "koffer voor reizen"
+        },
+        {
+            "word": "reisleider",
+            "clue": "begeleider op reis"
+        },
+        {
+            "word": "reizigers",
+            "clue": "mensen die reizen"
+        },
+        {
+            "word": "rekenmachine",
+            "clue": "apparaat om te rekenen"
+        },
+        {
+            "word": "rekenwerk",
+            "clue": "werk met sommen"
+        },
+        {
+            "word": "remlicht",
+            "clue": "licht bij remmen"
+        },
+        {
+            "word": "rente",
+            "clue": "vergoeding voor geld"
+        },
+        {
+            "word": "republiek",
+            "clue": "staatsvorm"
+        },
+        {
+            "word": "restant",
+            "clue": "overblijfsel"
+        },
+        {
+            "word": "restaurant",
+            "clue": "eetgelegenheid"
+        },
+        {
+            "word": "resultaat",
+            "clue": "uitkomst"
+        },
+        {
+            "word": "reus",
+            "clue": "heel groot persoon"
+        },
+        {
+            "word": "reuzeleuk",
+            "clue": "erg leuk"
+        },
+        {
+            "word": "revolutie",
+            "clue": "grote omwenteling"
+        },
+        {
+            "word": "revolver",
+            "clue": "klein vuurwapen"
+        },
+        {
+            "word": "ria",
+            "clue": "inham in kust"
+        },
+        {
+            "word": "rijbewijs",
+            "clue": "bewijs om auto te rijden"
+        },
+        {
+            "word": "rijkdom",
+            "clue": "veel bezit"
+        },
+        {
+            "word": "rijm",
+            "clue": "klankovereenkomst"
+        },
+        {
+            "word": "rimpel",
+            "clue": "plooi in huid"
+        },
+        {
+            "word": "ringweg",
+            "clue": "weg rond stad"
+        },
+        {
+            "word": "riool",
+            "clue": "afvoer onder de grond"
+        },
+        {
+            "word": "ritme",
+            "clue": "regelmaat in muziek"
+        },
+        {
+            "word": "ritssluiting",
+            "clue": "sluiting met tandjes"
+        },
+        {
+            "word": "rivier",
+            "clue": "grote waterstroom"
+        },
+        {
+            "word": "riviermonding",
+            "clue": "einde van een rivier"
+        },
+        {
+            "word": "robot",
+            "clue": "machine die werk doet"
+        },
+        {
+            "word": "roeiboot",
+            "clue": "boot met riemen"
+        },
+        {
+            "word": "roet",
+            "clue": "zwarte stof van vuur"
+        },
+        {
+            "word": "roltrap",
+            "clue": "bewegende trap"
+        },
+        {
+            "word": "roman",
+            "clue": "verzonnen boek"
+        },
+        {
+            "word": "rommelmarkt",
+            "clue": "markt met oude spullen"
+        },
+        {
+            "word": "rookmelder",
+            "clue": "apparaat bij rook"
+        },
+        {
+            "word": "roomijs",
+            "clue": "ijs van room"
+        },
+        {
+            "word": "rotonde",
+            "clue": "ronde weg"
+        },
+        {
+            "word": "rotsblok",
+            "clue": "groot stuk steen"
+        },
+        {
+            "word": "rotstekeningen",
+            "clue": "oude tekeningen"
+        },
+        {
+            "word": "rozenkrans",
+            "clue": "kralensnoer"
+        },
+        {
+            "word": "rozenstruik",
+            "clue": "struik met rozen"
+        },
+        {
+            "word": "rugzak",
+            "clue": "tas op rug"
+        },
+        {
+            "word": "ruilhandel",
+            "clue": "handel met spullen"
+        },
+        {
+            "word": "ruimtereis",
+            "clue": "reis naar de ruimte"
+        },
+        {
+            "word": "ruimteschip",
+            "clue": "voertuig voor de ruimte"
+        },
+        {
+            "word": "ruimtestation",
+            "clue": "verblijf in de ruimte"
+        },
+        {
+            "word": "ruimtevaart",
+            "clue": "reizen in de ruimte"
+        },
+        {
+            "word": "rups",
+            "clue": "insectenlarve"
+        },
+        {
+            "word": "rustpunt",
+            "clue": "plaats om te rusten"
+        },
+        {
+            "word": "sabel",
+            "clue": "krom zwaard"
+        },
+        {
+            "word": "safari",
+            "clue": "tocht om dieren te zien"
+        },
+        {
+            "word": "salaris",
+            "clue": "loon"
+        },
+        {
+            "word": "salon",
+            "clue": "nette kamer"
+        },
+        {
+            "word": "salto",
+            "clue": "sprong"
+        },
+        {
+            "word": "samenhang",
+            "clue": "verband"
+        },
+        {
+            "word": "samenkomst",
+            "clue": "bijeenkomst"
+        },
+        {
+            "word": "samenleving",
+            "clue": "maatschappij"
+        },
+        {
+            "word": "samenwerking",
+            "clue": "meewerken"
+        },
+        {
+            "word": "sandaal",
+            "clue": "open schoen"
+        },
+        {
+            "word": "satelliet",
+            "clue": "voorwerp in baan"
+        },
+        {
+            "word": "sauslepel",
+            "clue": "lepel voor saus"
+        },
+        {
+            "word": "schaapherder",
+            "clue": "hoeder van schapen"
+        },
+        {
+            "word": "schaapskooi",
+            "clue": "verblijf voor schapen"
+        },
+        {
+            "word": "schaar",
+            "clue": "knipgereedschap"
+        },
+        {
+            "word": "schaarste",
+            "clue": "tekort"
+        },
+        {
+            "word": "schaatsbaan",
+            "clue": "baan om te schaatsen"
+        },
+        {
+            "word": "schaatsenrijder",
+            "clue": "iemand die schaatst"
+        },
+        {
+            "word": "schaatsers",
+            "clue": "mensen die schaatsen"
+        },
+        {
+            "word": "schaduw",
+            "clue": "donkere plek"
+        },
+        {
+            "word": "schakelaar",
+            "clue": "knop voor stroom"
+        },
+        {
+            "word": "schakelketting",
+            "clue": "ketting van schakels"
+        },
+        {
+            "word": "schakelklas",
+            "clue": "tussenklas"
+        },
+        {
+            "word": "schakelwoord",
+            "clue": "verbindingswoord"
+        },
+        {
+            "word": "scheepsbel",
+            "clue": "bel op schip"
+        },
+        {
+            "word": "scheepswerf",
+            "clue": "plaats voor schepen"
+        },
+        {
+            "word": "scheidsrechter",
+            "clue": "leider bij sport"
+        },
+        {
+            "word": "scheikunde",
+            "clue": "wetenschap van stoffen"
+        },
+        {
+            "word": "schelp",
+            "clue": "harde buitenkant"
+        },
+        {
+            "word": "schilderij",
+            "clue": "kunst op doek"
+        },
+        {
+            "word": "schilmes",
+            "clue": "mes om te schillen"
+        },
+        {
+            "word": "schimmel",
+            "clue": "zwam"
+        },
+        {
+            "word": "schip",
+            "clue": "groot vaartuig"
+        },
+        {
+            "word": "schoenendoos",
+            "clue": "doos voor schoenen"
+        },
+        {
+            "word": "schoenenkast",
+            "clue": "kast voor schoenen"
+        },
+        {
+            "word": "schoenmaker",
+            "clue": "iemand die schoenen maakt"
+        },
+        {
+            "word": "schonen",
+            "clue": "reinigen"
+        },
+        {
+            "word": "schoolplein",
+            "clue": "plein bij school"
+        },
+        {
+            "word": "schoolreis",
+            "clue": "uitstapje met school"
+        },
+        {
+            "word": "schoonmaak",
+            "clue": "poetsen"
+        },
+        {
+            "word": "schoonmoeder",
+            "clue": "moeder van partner"
+        },
+        {
+            "word": "schoorsteen",
+            "clue": "pijp voor rook"
+        },
+        {
+            "word": "schotel",
+            "clue": "bord"
+        },
+        {
+            "word": "schraag",
+            "clue": "steunbalk"
+        },
+        {
+            "word": "schreeuw",
+            "clue": "harde kreet"
+        },
+        {
+            "word": "schrift",
+            "clue": "boekje om in te schrijven"
+        },
+        {
+            "word": "schrijver",
+            "clue": "auteur"
+        },
+        {
+            "word": "schroevendraaier",
+            "clue": "gereedschap"
+        },
+        {
+            "word": "schuifpui",
+            "clue": "schuivende deur"
+        },
+        {
+            "word": "schuim",
+            "clue": "luchtbelletjes"
+        },
+        {
+            "word": "schuur",
+            "clue": "bijgebouw voor opslag"
+        },
+        {
+            "word": "schuurpapier",
+            "clue": "papier dat schuurt"
+        },
+        {
+            "word": "sein",
+            "clue": "teken"
+        },
+        {
+            "word": "seingever",
+            "clue": "iemand die sein geeft"
+        },
+        {
+            "word": "seizoen",
+            "clue": "jaargetijde"
+        },
+        {
+            "word": "servieskast",
+            "clue": "kast voor servies"
+        },
+        {
+            "word": "sfeer",
+            "clue": "stemming"
+        },
+        {
+            "word": "sigarenkist",
+            "clue": "doosje voor sigaren"
+        },
+        {
+            "word": "sigaret",
+            "clue": "rookwaar"
+        },
+        {
+            "word": "sikkel",
+            "clue": "gebogen mes"
+        },
+        {
+            "word": "silo",
+            "clue": "grote opslag"
+        },
+        {
+            "word": "sinaasappel",
+            "clue": "citrusvrucht"
+        },
+        {
+            "word": "sinterklaas",
+            "clue": "feestfiguur"
+        },
+        {
+            "word": "sjaal",
+            "clue": "doek om hals"
+        },
+        {
+            "word": "sjoelbak",
+            "clue": "houten speelbord"
+        },
+        {
+            "word": "slaapkamer",
+            "clue": "kamer om te slapen"
+        },
+        {
+            "word": "slaapzak",
+            "clue": "zak om in te slapen"
+        },
+        {
+            "word": "slacht",
+            "clue": "het doden van vee"
+        },
+        {
+            "word": "slager",
+            "clue": "verkoper van vlees"
+        },
+        {
+            "word": "slagersmes",
+            "clue": "mes van slager"
+        },
+        {
+            "word": "slagveld",
+            "clue": "terrein van strijd"
+        },
+        {
+            "word": "slapstick",
+            "clue": "grappige filmstijl"
+        },
+        {
+            "word": "slavenhandel",
+            "clue": "handel in mensen"
+        },
+        {
+            "word": "slavernij",
+            "clue": "toestand van onvrijheid"
+        },
+        {
+            "word": "sleur",
+            "clue": "eentonigheid"
+        },
+        {
+            "word": "sleutelbos",
+            "clue": "bos met sleutels"
+        },
+        {
+            "word": "slijterij",
+            "clue": "winkel voor drank"
+        },
+        {
+            "word": "slinger",
+            "clue": "heen en weer beweging"
+        },
+        {
+            "word": "slotenmaker",
+            "clue": "maker van sloten"
+        },
+        {
+            "word": "slotgracht",
+            "clue": "gracht om kasteel"
+        },
+        {
+            "word": "slotstuk",
+            "clue": "laatste deel"
+        },
+        {
+            "word": "sluier",
+            "clue": "doek voor gezicht"
+        },
+        {
+            "word": "sluipweg",
+            "clue": "geheime route"
+        },
+        {
+            "word": "sluis",
+            "clue": "waterpoort"
+        },
+        {
+            "word": "smaak",
+            "clue": "hoe iets proeft"
+        },
+        {
+            "word": "smeltwater",
+            "clue": "water van ijs"
+        },
+        {
+            "word": "smid",
+            "clue": "metaalbewerker"
+        },
+        {
+            "word": "sneeuwbal",
+            "clue": "bal van sneeuw"
+        },
+        {
+            "word": "sneeuwpop",
+            "clue": "figuur van sneeuw"
+        },
+        {
+            "word": "sneeuwstorm",
+            "clue": "hevige sneeuwval"
+        },
+        {
+            "word": "snijplank",
+            "clue": "plank om op te snijden"
+        },
+        {
+            "word": "snotneus",
+            "clue": "onervaren persoon"
+        },
+        {
+            "word": "snuifje",
+            "clue": "kleine hoeveelheid"
+        },
+        {
+            "word": "soepketel",
+            "clue": "ketel voor soep"
+        },
+        {
+            "word": "soepkom",
+            "clue": "kom voor soep"
+        },
+        {
+            "word": "soepterrine",
+            "clue": "schaal voor soep"
+        },
+        {
+            "word": "soldaat",
+            "clue": "militair"
+        },
+        {
+            "word": "sollicitatie",
+            "clue": "aanvraag voor werk"
+        },
+        {
+            "word": "som",
+            "clue": "rekenopdracht"
+        },
+        {
+            "word": "sonate",
+            "clue": "muziekstuk"
+        },
+        {
+            "word": "sopraan",
+            "clue": "hoge zangstem"
+        },
+        {
+            "word": "sorteerbak",
+            "clue": "bak om te scheiden"
+        },
+        {
+            "word": "spaarbank",
+            "clue": "bank voor sparen"
+        },
+        {
+            "word": "spaarpot",
+            "clue": "pot voor geld"
+        },
+        {
+            "word": "spandoek",
+            "clue": "groot doek"
+        },
+        {
+            "word": "spanning",
+            "clue": "elektrische kracht"
+        },
+        {
+            "word": "spanwijdte",
+            "clue": "vleugelbreedte"
+        },
+        {
+            "word": "spatie",
+            "clue": "lege ruimte"
+        },
+        {
+            "word": "speelgoed",
+            "clue": "dingen om mee te spelen"
+        },
+        {
+            "word": "speeltuin",
+            "clue": "plaats om te spelen"
+        },
+        {
+            "word": "speelveld",
+            "clue": "veld voor spel"
+        },
+        {
+            "word": "spelregel",
+            "clue": "regel van een spel"
+        },
+        {
+            "word": "speurtocht",
+            "clue": "zoekspel"
+        },
+        {
+            "word": "spiegelbeeld",
+            "clue": "weerspiegeling"
+        },
+        {
+            "word": "spijkerbroek",
+            "clue": "broek van denim"
+        },
+        {
+            "word": "spion",
+            "clue": "iemand die spioneert"
+        },
+        {
+            "word": "spits",
+            "clue": "puntig deel"
+        },
+        {
+            "word": "spoorlijn",
+            "clue": "traject voor trein"
+        },
+        {
+            "word": "spoorwegovergang",
+            "clue": "kruising met spoor"
+        },
+        {
+            "word": "sporthal",
+            "clue": "gebouw voor sport"
+        },
+        {
+            "word": "sportveld",
+            "clue": "veld voor sport"
+        },
+        {
+            "word": "spraak",
+            "clue": "gesproken taal"
+        },
+        {
+            "word": "spraakgebrek",
+            "clue": "probleem met spreken"
+        },
+        {
+            "word": "spraakwaterval",
+            "clue": "veel praten"
+        },
+        {
+            "word": "spreektaal",
+            "clue": "gewone taal"
+        },
+        {
+            "word": "spreekwoord",
+            "clue": "vaste uitdrukking"
+        },
+        {
+            "word": "springplank",
+            "clue": "plank om te springen"
+        },
+        {
+            "word": "springtouw",
+            "clue": "touw om te springen"
+        },
+        {
+            "word": "sprinkhaan",
+            "clue": "springend insect"
+        },
+        {
+            "word": "sprinter",
+            "clue": "snelle loper"
+        },
+        {
+            "word": "sprong",
+            "clue": "beweging door te springen"
+        },
+        {
+            "word": "spuitbus",
+            "clue": "bus met druk"
+        },
+        {
+            "word": "spuugbak",
+            "clue": "bak om in te spugen"
+        },
+        {
+            "word": "staal",
+            "clue": "hard metaal"
+        },
+        {
+            "word": "staander",
+            "clue": "steunpaal"
+        },
+        {
+            "word": "staatsman",
+            "clue": "belangrijk politicus"
+        },
+        {
+            "word": "stadion",
+            "clue": "gebouw voor sportwedstrijden"
+        },
+        {
+            "word": "stadsbus",
+            "clue": "bus in stad"
+        },
+        {
+            "word": "stadscentrum",
+            "clue": "centrum van stad"
+        },
+        {
+            "word": "stadsmuur",
+            "clue": "muur om stad"
+        },
+        {
+            "word": "stadsplein",
+            "clue": "plein in stad"
+        },
+        {
+            "word": "stadsrand",
+            "clue": "rand van stad"
+        },
+        {
+            "word": "stadstoren",
+            "clue": "toren in stad"
+        },
+        {
+            "word": "stagiair",
+            "clue": "leerling in praktijk"
+        },
+        {
+            "word": "standaard",
+            "clue": "vaste norm"
+        },
+        {
+            "word": "standbeeld",
+            "clue": "beeld van persoon"
+        },
+        {
+            "word": "stapelbed",
+            "clue": "bed boven en onder"
+        },
+        {
+            "word": "stapelboek",
+            "clue": "verzameling boeken"
+        },
+        {
+            "word": "station",
+            "clue": "plek voor treinen"
+        },
+        {
+            "word": "stationsklok",
+            "clue": "klok op station"
+        },
+        {
+            "word": "staven",
+            "clue": "lange stokken"
+        },
+        {
+            "word": "steenbok",
+            "clue": "dier of sterrenbeeld"
+        },
+        {
+            "word": "steenkool",
+            "clue": "brandstof"
+        },
+        {
+            "word": "steiger",
+            "clue": "werkplatform"
+        },
+        {
+            "word": "steigeraar",
+            "clue": "dier dat steigert"
+        },
+        {
+            "word": "steigernet",
+            "clue": "net rond bouw"
+        },
+        {
+            "word": "steken",
+            "clue": "prikken"
+        },
+        {
+            "word": "stempel",
+            "clue": "afdruk"
+        },
+        {
+            "word": "sterrenbeeld",
+            "clue": "groep sterren"
+        },
+        {
+            "word": "sterrenkunde",
+            "clue": "wetenschap van sterren"
+        },
+        {
+            "word": "sterrennacht",
+            "clue": "nacht met sterren"
+        },
+        {
+            "word": "sterrenregen",
+            "clue": "vallende sterren"
+        },
+        {
+            "word": "steunbeer",
+            "clue": "steun bij muur"
+        },
+        {
+            "word": "stevig",
+            "clue": "sterk"
+        },
+        {
+            "word": "stijgbeugel",
+            "clue": "deel van zadel"
+        },
+        {
+            "word": "stijl",
+            "clue": "manier van doen"
+        },
+        {
+            "word": "stikstof",
+            "clue": "gas"
+        },
+        {
+            "word": "stilte",
+            "clue": "afwezigheid van geluid"
+        },
+        {
+            "word": "stoeprand",
+            "clue": "rand van stoep"
+        },
+        {
+            "word": "stofkam",
+            "clue": "kam voor haar"
+        },
+        {
+            "word": "stofzuiger",
+            "clue": "apparaat om stof op te zuigen"
+        },
+        {
+            "word": "stok",
+            "clue": "tak of paal"
+        },
+        {
+            "word": "stokbrood",
+            "clue": "Frans brood"
+        },
+        {
+            "word": "stoomboot",
+            "clue": "boot op stoom"
+        },
+        {
+            "word": "stoomtrein",
+            "clue": "trein op stoom"
+        },
+        {
+            "word": "stopcontact",
+            "clue": "aansluiting voor stroom"
+        },
+        {
+            "word": "stortplaats",
+            "clue": "plek voor afval"
+        },
+        {
+            "word": "straatmuzikant",
+            "clue": "muzikant op straat"
+        },
+        {
+            "word": "straatnaam",
+            "clue": "naam van straat"
+        },
+        {
+            "word": "straf",
+            "clue": "boete of straf"
+        },
+        {
+            "word": "strandbal",
+            "clue": "bal voor strand"
+        },
+        {
+            "word": "strandstoel",
+            "clue": "stoel op strand"
+        },
+        {
+            "word": "strandtent",
+            "clue": "tent aan zee"
+        },
+        {
+            "word": "stratenplan",
+            "clue": "kaart van stad"
+        },
+        {
+            "word": "streng",
+            "clue": "hard of streng"
+        },
+        {
+            "word": "stripboek",
+            "clue": "boek met plaatjes"
+        },
+        {
+            "word": "stro",
+            "clue": "droog gras"
+        },
+        {
+            "word": "strohalm",
+            "clue": "rietje"
+        },
+        {
+            "word": "stroming",
+            "clue": "beweging van water of lucht"
+        },
+        {
+            "word": "structuur",
+            "clue": "opbouw"
+        },
+        {
+            "word": "studentenflat",
+            "clue": "gebouw voor studenten"
+        },
+        {
+            "word": "studentenleven",
+            "clue": "leven van studenten"
+        },
+        {
+            "word": "studierichting",
+            "clue": "richting van studie"
+        },
+        {
+            "word": "studiezaal",
+            "clue": "zaal voor studie"
+        },
+        {
+            "word": "stukadoor",
+            "clue": "vakman voor muren"
+        },
+        {
+            "word": "stuwdam",
+            "clue": "dam in rivier"
+        },
+        {
+            "word": "suikerklontje",
+            "clue": "blokje suiker"
+        },
+        {
+            "word": "suikerpot",
+            "clue": "pot voor suiker"
+        },
+        {
+            "word": "supermarkt",
+            "clue": "grote winkel"
+        },
+        {
+            "word": "surprise",
+            "clue": "verrassing"
+        },
+        {
+            "word": "systeem",
+            "clue": "geheel van onderdelen"
+        },
+        {
+            "word": "taal",
+            "clue": "middel om te communiceren"
+        },
+        {
+            "word": "taalboek",
+            "clue": "boek over taal"
+        },
+        {
+            "word": "taalgrens",
+            "clue": "grens tussen talen"
+        },
+        {
+            "word": "taalkundige",
+            "clue": "specialist in taal"
+        },
+        {
+            "word": "taalspel",
+            "clue": "spel met woorden"
+        },
+        {
+            "word": "taart",
+            "clue": "zoet gebak"
+        },
+        {
+            "word": "tafelblad",
+            "clue": "bovenkant van tafel"
+        },
+        {
+            "word": "tafelkleed",
+            "clue": "doek op tafel"
+        },
+        {
+            "word": "takelwagen",
+            "clue": "auto die sleept"
+        },
+        {
+            "word": "takkenbos",
+            "clue": "verzameling takken"
+        },
+        {
+            "word": "tandarts",
+            "clue": "dokter voor tanden"
+        },
+        {
+            "word": "tandenborstel",
+            "clue": "borstel voor tanden"
+        },
+        {
+            "word": "tandenstoker",
+            "clue": "stokje voor tanden"
+        },
+        {
+            "word": "tandpasta",
+            "clue": "pasta voor tanden"
+        },
+        {
+            "word": "tankstation",
+            "clue": "plek voor brandstof"
+        },
+        {
+            "word": "tapijt",
+            "clue": "vloerbedekking"
+        },
+        {
+            "word": "tasboek",
+            "clue": "tas voor boeken"
+        },
+        {
+            "word": "tasje",
+            "clue": "kleine tas"
+        },
+        {
+            "word": "taxi",
+            "clue": "vervoermiddel tegen betaling"
+        },
+        {
+            "word": "team",
+            "clue": "groep samenwerkers"
+        },
+        {
+            "word": "techniek",
+            "clue": "toegepaste wetenschap"
+        },
+        {
+            "word": "technologie",
+            "clue": "moderne techniek"
+        },
+        {
+            "word": "tekenfilm",
+            "clue": "animatiefilm"
+        },
+        {
+            "word": "tekening",
+            "clue": "afbeelding"
+        },
+        {
+            "word": "tekenpen",
+            "clue": "pen om te tekenen"
+        },
+        {
+            "word": "telefoonboek",
+            "clue": "boek met telefoonnummers"
+        },
+        {
+            "word": "telefooncel",
+            "clue": "hokje met telefoon"
+        },
+        {
+            "word": "televisie",
+            "clue": "toestel voor beelden"
+        },
+        {
+            "word": "tempel",
+            "clue": "godsdienstig gebouw"
+        },
+        {
+            "word": "tentdoek",
+            "clue": "doek voor tent"
+        },
+        {
+            "word": "terras",
+            "clue": "buitenplaats"
+        },
+        {
+            "word": "terugkeer",
+            "clue": "weerkomst"
+        },
+        {
+            "word": "test",
+            "clue": "proef"
+        },
+        {
+            "word": "theater",
+            "clue": "gebouw voor toneel"
+        },
+        {
+            "word": "theekop",
+            "clue": "kop voor thee"
+        },
+        {
+            "word": "theelepel",
+            "clue": "kleine lepel"
+        },
+        {
+            "word": "theepot",
+            "clue": "pot voor thee"
+        },
+        {
+            "word": "thermometer",
+            "clue": "instrument om temperatuur te meten"
+        },
+        {
+            "word": "thuiswedstrijd",
+            "clue": "wedstrijd in eigen stad"
+        },
+        {
+            "word": "tijd",
+            "clue": "duur"
+        },
+        {
+            "word": "tijdschrift",
+            "clue": "blad"
+        },
+        {
+            "word": "tijdstip",
+            "clue": "moment"
+        },
+        {
+            "word": "tijger",
+            "clue": "roofdier"
+        },
+        {
+            "word": "timmerman",
+            "clue": "vakman met hout"
+        },
+        {
+            "word": "tinteling",
+            "clue": "prikkelend gevoel"
+        },
+        {
+            "word": "titel",
+            "clue": "naam van boek of film"
+        },
+        {
+            "word": "toekomst",
+            "clue": "wat komt"
+        },
+        {
+            "word": "toernooi",
+            "clue": "reeks wedstrijden"
+        },
+        {
+            "word": "toeschouwer",
+            "clue": "kijker"
+        },
+        {
+            "word": "toilet",
+            "clue": "wc"
+        },
+        {
+            "word": "tolpoort",
+            "clue": "poort met tol"
+        },
+        {
+            "word": "tomaat",
+            "clue": "groente of vrucht"
+        },
+        {
+            "word": "toneelstuk",
+            "clue": "theaterstuk"
+        },
+        {
+            "word": "toog",
+            "clue": "boogvorm"
+        },
+        {
+            "word": "toorts",
+            "clue": "fakkel"
+        },
+        {
+            "word": "topprestatie",
+            "clue": "groot succes"
+        },
+        {
+            "word": "toren",
+            "clue": "hoog gebouw"
+        },
+        {
+            "word": "tovenaar",
+            "clue": "magisch persoon"
+        },
+        {
+            "word": "traditie",
+            "clue": "gewoonte"
+        },
+        {
+            "word": "tramhalte",
+            "clue": "halte voor tram"
+        },
+        {
+            "word": "tramrails",
+            "clue": "spoor voor tram"
+        },
+        {
+            "word": "transport",
+            "clue": "vervoer"
+        },
+        {
+            "word": "trapleuning",
+            "clue": "steun bij trap"
+        },
+        {
+            "word": "trapveld",
+            "clue": "veldje om te spelen"
+        },
+        {
+            "word": "treinkaartje",
+            "clue": "kaartje voor trein"
+        },
+        {
+            "word": "treinrit",
+            "clue": "reis met trein"
+        },
+        {
+            "word": "treinstation",
+            "clue": "station voor trein"
+        },
+        {
+            "word": "trommel",
+            "clue": "slagwerk"
+        },
+        {
+            "word": "trompet",
+            "clue": "blaasinstrument"
+        },
+        {
+            "word": "trouwdag",
+            "clue": "dag van huwelijk"
+        },
+        {
+            "word": "trouwjurk",
+            "clue": "jurk voor bruid"
+        },
+        {
+            "word": "trouwring",
+            "clue": "ring bij huwelijk"
+        },
+        {
+            "word": "tuig",
+            "clue": "spullen"
+        },
+        {
+            "word": "tuinbank",
+            "clue": "bank in tuin"
+        },
+        {
+            "word": "tuindeur",
+            "clue": "deur naar tuin"
+        },
+        {
+            "word": "tuinhek",
+            "clue": "hek bij tuin"
+        },
+        {
+            "word": "tuinman",
+            "clue": "iemand die tuinen onderhoudt"
+        },
+        {
+            "word": "tuinslang",
+            "clue": "slang voor water"
+        },
+        {
+            "word": "tuinwerk",
+            "clue": "werk in de tuin"
+        },
+        {
+            "word": "turquoise",
+            "clue": "blauwgroene kleur"
+        },
+        {
+            "word": "tweeling",
+            "clue": "twee tegelijk geboren"
+        },
+        {
+            "word": "twijfel",
+            "clue": "onzekerheid"
+        },
+        {
+            "word": "twist",
+            "clue": "ruzie"
+        },
+        {
+            "word": "uienring",
+            "clue": "gefrituurde uienschijf"
+        },
+        {
+            "word": "uil",
+            "clue": "nachtvogel"
+        },
+        {
+            "word": "uitbarsting",
+            "clue": "plotselinge uiting"
+        },
+        {
+            "word": "uitdaging",
+            "clue": "moeilijke taak"
+        },
+        {
+            "word": "uitdrukking",
+            "clue": "vaste zegswijze"
+        },
+        {
+            "word": "uitgang",
+            "clue": "plek om naar buiten te gaan"
+        },
+        {
+            "word": "uithoek",
+            "clue": "afgelegen plek"
+        },
+        {
+            "word": "uithoudingsvermogen",
+            "clue": "kracht om vol te houden"
+        },
+        {
+            "word": "uitleg",
+            "clue": "verklaring"
+        },
+        {
+            "word": "uitnodiging",
+            "clue": "verzoek om te komen"
+        },
+        {
+            "word": "uitspraak",
+            "clue": "hoe je iets zegt"
+        },
+        {
+            "word": "uitstapje",
+            "clue": "kleine reis"
+        },
+        {
+            "word": "uitverkoop",
+            "clue": "verkoop met korting"
+        },
+        {
+            "word": "uitvinder",
+            "clue": "bedenker"
+        },
+        {
+            "word": "universiteit",
+            "clue": "hoge school"
+        },
+        {
+            "word": "urk",
+            "clue": "plaats in Flevoland"
+        },
+        {
+            "word": "vaandel",
+            "clue": "vlag"
+        },
+        {
+            "word": "vakantie",
+            "clue": "vrije tijd"
+        },
+        {
+            "word": "vakantiehuis",
+            "clue": "huis voor vakantie"
+        },
+        {
+            "word": "vakgebied",
+            "clue": "specialisatie"
+        },
+        {
+            "word": "vakgenoot",
+            "clue": "iemand van hetzelfde vak"
+        },
+        {
+            "word": "vakwerk",
+            "clue": "degelijk werk"
+        },
+        {
+            "word": "valk",
+            "clue": "roofvogel"
+        },
+        {
+            "word": "vallei",
+            "clue": "dal"
+        },
+        {
+            "word": "valreep",
+            "clue": "loopplank"
+        },
+        {
+            "word": "vals",
+            "clue": "niet echt"
+        },
+        {
+            "word": "vandaag",
+            "clue": "deze dag"
+        },
+        {
+            "word": "varens",
+            "clue": "groene planten"
+        },
+        {
+            "word": "variatie",
+            "clue": "afwisseling"
+        },
+        {
+            "word": "varken",
+            "clue": "boerderijdier"
+        },
+        {
+            "word": "varkensstal",
+            "clue": "stal voor varkens"
+        },
+        {
+            "word": "vat",
+            "clue": "groot vat"
+        },
+        {
+            "word": "veen",
+            "clue": "natte grond"
+        },
+        {
+            "word": "veenplas",
+            "clue": "meer in veengebied"
+        },
+        {
+            "word": "veenweide",
+            "clue": "weiland op veen"
+        },
+        {
+            "word": "veerboot",
+            "clue": "boot voor overtocht"
+        },
+        {
+            "word": "veertje",
+            "clue": "klein veer"
+        },
+        {
+            "word": "vegetatie",
+            "clue": "plantengroei"
+        },
+        {
+            "word": "vehikel",
+            "clue": "voertuig"
+        },
+        {
+            "word": "veiligheid",
+            "clue": "toestand zonder gevaar"
+        },
+        {
+            "word": "veiling",
+            "clue": "verkoop bij opbod"
+        },
+        {
+            "word": "veld",
+            "clue": "open ruimte"
+        },
+        {
+            "word": "veldgids",
+            "clue": "boek met soorten"
+        },
+        {
+            "word": "veldslag",
+            "clue": "gevecht"
+        },
+        {
+            "word": "veldsport",
+            "clue": "sport op veld"
+        },
+        {
+            "word": "ven",
+            "clue": "klein meer"
+        },
+        {
+            "word": "vensterbank",
+            "clue": "rand van raam"
+        },
+        {
+            "word": "ventilator",
+            "clue": "draaiend apparaat"
+        },
+        {
+            "word": "verandering",
+            "clue": "iets dat anders wordt"
+        },
+        {
+            "word": "verband",
+            "clue": "connectie"
+        },
+        {
+            "word": "verbetering",
+            "clue": "vooruitgang"
+        },
+        {
+            "word": "verblijf",
+            "clue": "verblijfplaats"
+        },
+        {
+            "word": "verdieping",
+            "clue": "etage"
+        },
+        {
+            "word": "verdrag",
+            "clue": "afspraak tussen landen"
+        },
+        {
+            "word": "verf",
+            "clue": "kleurstof voor muren"
+        },
+        {
+            "word": "verhaal",
+            "clue": "vertelling"
+        },
+        {
+            "word": "verheven",
+            "clue": "hoogstaand"
+        },
+        {
+            "word": "verjaardag",
+            "clue": "geboortedag"
+        },
+        {
+            "word": "verkeersbord",
+            "clue": "bord bij de weg"
+        },
+        {
+            "word": "verkeersdrukte",
+            "clue": "veel verkeer"
+        },
+        {
+            "word": "verkeerslicht",
+            "clue": "licht bij kruising"
+        },
+        {
+            "word": "verkenning",
+            "clue": "onderzoek"
+        },
+        {
+            "word": "verklaring",
+            "clue": "uitleg"
+        },
+        {
+            "word": "verkoop",
+            "clue": "afzet"
+        },
+        {
+            "word": "verlanglijst",
+            "clue": "lijst van wensen"
+        },
+        {
+            "word": "verlichting",
+            "clue": "lampen"
+        },
+        {
+            "word": "verlossing",
+            "clue": "bevrijding"
+        },
+        {
+            "word": "vermaak",
+            "clue": "amusement"
+        },
+        {
+            "word": "vermelding",
+            "clue": "vermelding in tekst"
+        },
+        {
+            "word": "vermogen",
+            "clue": "kracht of bezit"
+        },
+        {
+            "word": "verrassing",
+            "clue": "onverwacht iets"
+        },
+        {
+            "word": "verrekijker",
+            "clue": "kijker voor ver"
+        },
+        {
+            "word": "verslag",
+            "clue": "beschrijving"
+        },
+        {
+            "word": "verslaggever",
+            "clue": "iemand die verslag doet"
+        },
+        {
+            "word": "verslaving",
+            "clue": "afhankelijkheid"
+        },
+        {
+            "word": "verspreiding",
+            "clue": "verspreiden"
+        },
+        {
+            "word": "verstand",
+            "clue": "denkvermogen"
+        },
+        {
+            "word": "verstekeling",
+            "clue": "stiekeme reiziger"
+        },
+        {
+            "word": "vertaling",
+            "clue": "omzetting van taal"
+        },
+        {
+            "word": "vertrek",
+            "clue": "ruimte of begin"
+        },
+        {
+            "word": "vervanging",
+            "clue": "iets in de plaats"
+        },
+        {
+            "word": "vervoer",
+            "clue": "transport"
+        },
+        {
+            "word": "vervolg",
+            "clue": "wat daarna komt"
+        },
+        {
+            "word": "vesper",
+            "clue": "avondgebed"
+        },
+        {
+            "word": "vestiging",
+            "clue": "nieuw bedrijf of plek"
+        },
+        {
+            "word": "vesting",
+            "clue": "versterkte stad"
+        },
+        {
+            "word": "veter",
+            "clue": "koord voor schoenen"
+        },
+        {
+            "word": "veteraan",
+            "clue": "oudgediende"
+        },
+        {
+            "word": "veterinair",
+            "clue": "diergeneeskundig"
+        },
+        {
+            "word": "vijand",
+            "clue": "tegenstander"
+        },
+        {
+            "word": "vijver",
+            "clue": "waterbak"
+        },
+        {
+            "word": "vijverwater",
+            "clue": "water in een vijver"
+        },
+        {
+            "word": "viking",
+            "clue": "Noorse krijger"
+        },
+        {
+            "word": "villa",
+            "clue": "groot huis"
+        },
+        {
+            "word": "viltstift",
+            "clue": "dikke stift"
+        },
+        {
+            "word": "vink",
+            "clue": "zangvogel"
+        },
+        {
+            "word": "viool",
+            "clue": "snaarinstrument"
+        },
+        {
+            "word": "vioolspel",
+            "clue": "muziek op viool"
+        },
+        {
+            "word": "visserij",
+            "clue": "beroep van vissen"
+        },
+        {
+            "word": "vissersboot",
+            "clue": "boot om te vissen"
+        },
+        {
+            "word": "vissersdorp",
+            "clue": "dorp bij zee"
+        },
+        {
+            "word": "visvijver",
+            "clue": "vijver met vissen"
+        },
+        {
+            "word": "vlaggenmast",
+            "clue": "paal voor vlag"
+        },
+        {
+            "word": "vlam",
+            "clue": "brandend deel"
+        },
+        {
+            "word": "vleeswaren",
+            "clue": "producten van vlees"
+        },
+        {
+            "word": "vlinder",
+            "clue": "insect"
+        },
+        {
+            "word": "vlindernet",
+            "clue": "net om vlinders te vangen"
+        },
+        {
+            "word": "vlo",
+            "clue": "klein springend insect"
+        },
+        {
+            "word": "vloer",
+            "clue": "grond in huis"
+        },
+        {
+            "word": "vloerkleed",
+            "clue": "kleed op vloer"
+        },
+        {
+            "word": "vloot",
+            "clue": "verzameling schepen"
+        },
+        {
+            "word": "vlucht",
+            "clue": "tocht door lucht"
+        },
+        {
+            "word": "vluchteling",
+            "clue": "iemand op de vlucht"
+        },
+        {
+            "word": "vluchtstrook",
+            "clue": "strook langs snelweg"
+        },
+        {
+            "word": "voedselbank",
+            "clue": "hulporganisatie"
+        },
+        {
+            "word": "voedzaam",
+            "clue": "met veel voeding"
+        },
+        {
+            "word": "voetbal",
+            "clue": "sport met bal"
+        },
+        {
+            "word": "voetbalveld",
+            "clue": "veld voor voetbal"
+        },
+        {
+            "word": "voetenbankje",
+            "clue": "kruk voor voeten"
+        },
+        {
+            "word": "voetganger",
+            "clue": "iemand die loopt"
+        },
+        {
+            "word": "voetgangerspad",
+            "clue": "pad voor wandelaars"
+        },
+        {
+            "word": "voetgangerstunnel",
+            "clue": "tunnel voor lopers"
+        },
+        {
+            "word": "voetstap",
+            "clue": "afdruk van voet"
+        },
+        {
+            "word": "voettocht",
+            "clue": "tocht te voet"
+        },
+        {
+            "word": "vogelhuisje",
+            "clue": "huisje voor vogels"
+        },
+        {
+            "word": "vogelnest",
+            "clue": "nest van vogels"
+        },
+        {
+            "word": "volkslied",
+            "clue": "nationaal lied"
+        },
+        {
+            "word": "volksverhaal",
+            "clue": "oud verhaal"
+        },
+        {
+            "word": "volwassen",
+            "clue": "niet meer kind"
+        },
+        {
+            "word": "voorjaar",
+            "clue": "lente"
+        },
+        {
+            "word": "voorkant",
+            "clue": "voorkant van iets"
+        },
+        {
+            "word": "voorleesboek",
+            "clue": "boek om voor te lezen"
+        },
+        {
+            "word": "voorraad",
+            "clue": "reserve"
+        },
+        {
+            "word": "voorstel",
+            "clue": "plan"
+        },
+        {
+            "word": "voorstelling",
+            "clue": "opvoering"
+        },
+        {
+            "word": "vooruitgang",
+            "clue": "verbetering"
+        },
+        {
+            "word": "vorm",
+            "clue": "gedaante"
+        },
+        {
+            "word": "vracht",
+            "clue": "lading"
+        },
+        {
+            "word": "vrachtwagen",
+            "clue": "grote auto voor vracht"
+        },
+        {
+            "word": "vrede",
+            "clue": "geen oorlog"
+        },
+        {
+            "word": "vreemdeling",
+            "clue": "onbekende"
+        },
+        {
+            "word": "vreugde",
+            "clue": "blijdschap"
+        },
+        {
+            "word": "vrieskist",
+            "clue": "kast om in te vriezen"
+        },
+        {
+            "word": "vrieskou",
+            "clue": "koude onder nul"
+        },
+        {
+            "word": "vrijdag",
+            "clue": "dag van de week"
+        },
+        {
+            "word": "vrijheid",
+            "clue": "zonder dwang"
+        },
+        {
+            "word": "vrucht",
+            "clue": "deel van plant"
+        },
+        {
+            "word": "vruchtensap",
+            "clue": "sap van fruit"
+        },
+        {
+            "word": "vuilnis",
+            "clue": "afval"
+        },
+        {
+            "word": "vuur",
+            "clue": "brandend materiaal"
+        },
+        {
+            "word": "vuurpijl",
+            "clue": "pijl die afschiet"
+        },
+        {
+            "word": "vuurwerk",
+            "clue": "licht en knal"
+        },
+        {
+            "word": "waakhond",
+            "clue": "hond die bewaakt"
+        },
+        {
+            "word": "waanzin",
+            "clue": "krankzinnigheid"
+        },
+        {
+            "word": "waardebon",
+            "clue": "bon met waarde"
+        },
+        {
+            "word": "waarheid",
+            "clue": "feit"
+        },
+        {
+            "word": "wachtkamer",
+            "clue": "kamer om te wachten"
+        },
+        {
+            "word": "wachttoren",
+            "clue": "toren om uit te kijken"
+        },
+        {
+            "word": "wafel",
+            "clue": "gebak"
+        },
+        {
+            "word": "wak",
+            "clue": "gat in ijs"
+        },
+        {
+            "word": "wandklok",
+            "clue": "klok aan de muur"
+        },
+        {
+            "word": "wanhoop",
+            "clue": "uitzichtloosheid"
+        },
+        {
+            "word": "wapen",
+            "clue": "voorwerp om te vechten"
+        },
+        {
+            "word": "wapenuitrusting",
+            "clue": "harnas"
+        },
+        {
+            "word": "warmte",
+            "clue": "hoge temperatuur"
+        },
+        {
+            "word": "warmwaterbron",
+            "clue": "bron met warm water"
+        },
+        {
+            "word": "wasbak",
+            "clue": "bak voor water"
+        },
+        {
+            "word": "wasknijper",
+            "clue": "knijper voor was"
+        },
+        {
+            "word": "waskom",
+            "clue": "bak om handen te wassen"
+        },
+        {
+            "word": "wasmachine",
+            "clue": "apparaat voor was"
+        },
+        {
+            "word": "waterbron",
+            "clue": "bron met water"
+        },
+        {
+            "word": "waterfiets",
+            "clue": "fiets op water"
+        },
+        {
+            "word": "waterfles",
+            "clue": "fles voor water"
+        },
+        {
+            "word": "waterleiding",
+            "clue": "buis voor water"
+        },
+        {
+            "word": "watermolen",
+            "clue": "molen door water"
+        },
+        {
+            "word": "waterpas",
+            "clue": "meetinstrument"
+        },
+        {
+            "word": "waterspiegel",
+            "clue": "oppervlak van water"
+        },
+        {
+            "word": "waterval",
+            "clue": "vallend water"
+        },
+        {
+            "word": "waterweg",
+            "clue": "route over water"
+        },
+        {
+            "word": "watt",
+            "clue": "eenheid van stroom"
+        },
+        {
+            "word": "web",
+            "clue": "netwerk van draden"
+        },
+        {
+            "word": "webshop",
+            "clue": "internetwinkel"
+        },
+        {
+            "word": "weegschaal",
+            "clue": "apparaat om te wegen"
+        },
+        {
+            "word": "weekblad",
+            "clue": "blad per week"
+        },
+        {
+            "word": "weergave",
+            "clue": "voorstelling"
+        },
+        {
+            "word": "weerman",
+            "clue": "man die weer voorspelt"
+        },
+        {
+            "word": "weerstand",
+            "clue": "tegenwerking"
+        },
+        {
+            "word": "weeshuis",
+            "clue": "huis voor wezen"
+        },
+        {
+            "word": "weidegrond",
+            "clue": "grasland"
+        },
+        {
+            "word": "weids",
+            "clue": "uitgestrekt"
+        },
+        {
+            "word": "weken",
+            "clue": "periode van zeven dagen"
+        },
+        {
+            "word": "weldaad",
+            "clue": "goede daad"
+        },
+        {
+            "word": "welvaart",
+            "clue": "rijkdom"
+        },
+        {
+            "word": "welzijn",
+            "clue": "toestand van welbevinden"
+        },
+        {
+            "word": "werelderfgoed",
+            "clue": "belangrijk erfgoed"
+        },
+        {
+            "word": "wereldkaart",
+            "clue": "kaart van wereld"
+        },
+        {
+            "word": "wereldkampioen",
+            "clue": "beste van wereld"
+        },
+        {
+            "word": "wereldoorlog",
+            "clue": "grote strijd"
+        },
+        {
+            "word": "werkmanshuis",
+            "clue": "huis van arbeider"
+        },
+        {
+            "word": "werkplaats",
+            "clue": "plaats om te werken"
+        },
+        {
+            "word": "werkwijze",
+            "clue": "methode"
+        },
+        {
+            "word": "werkwoord",
+            "clue": "woord voor een handeling"
+        },
+        {
+            "word": "wervelwind",
+            "clue": "draaiende wind"
+        },
+        {
+            "word": "wesp",
+            "clue": "stekend insect"
+        },
+        {
+            "word": "westen",
+            "clue": "windrichting"
+        },
+        {
+            "word": "wetboek",
+            "clue": "verzameling van wetten"
+        },
+        {
+            "word": "wetsboek",
+            "clue": "boek met wetten"
+        },
+        {
+            "word": "wetten",
+            "clue": "regels"
+        },
+        {
+            "word": "wichelroede",
+            "clue": "stok voor zoeken"
+        },
+        {
+            "word": "wiegelied",
+            "clue": "slaaplied"
+        },
+        {
+            "word": "wiek",
+            "clue": "deel van molen"
+        },
+        {
+            "word": "wiel",
+            "clue": "ronde schijf"
+        },
+        {
+            "word": "wielrenner",
+            "clue": "fietser in koers"
+        },
+        {
+            "word": "wier",
+            "clue": "waterplant"
+        },
+        {
+            "word": "wijsgeer",
+            "clue": "denker"
+        },
+        {
+            "word": "wijsheid",
+            "clue": "verstand"
+        },
+        {
+            "word": "wijzer",
+            "clue": "aanwijzer op klok"
+        },
+        {
+            "word": "wild",
+            "clue": "ongetemd"
+        },
+        {
+            "word": "wildpark",
+            "clue": "park met dieren"
+        },
+        {
+            "word": "windkracht",
+            "clue": "sterkte van wind"
+        },
+        {
+            "word": "windmolen",
+            "clue": "molen op wind"
+        },
+        {
+            "word": "windrichting",
+            "clue": "richting van wind"
+        },
+        {
+            "word": "winkelcentrum",
+            "clue": "groep winkels"
+        },
+        {
+            "word": "winkelmandje",
+            "clue": "mandje in winkel"
+        },
+        {
+            "word": "winkelstraat",
+            "clue": "straat met winkels"
+        },
+        {
+            "word": "winkeltas",
+            "clue": "tas voor winkel"
+        },
+        {
+            "word": "winter",
+            "clue": "koud seizoen"
+        },
+        {
+            "word": "winterjas",
+            "clue": "jas voor winter"
+        },
+        {
+            "word": "winterslaap",
+            "clue": "slaap in winter"
+        },
+        {
+            "word": "wiskunde",
+            "clue": "rekenen"
+        },
+        {
+            "word": "wiskundige",
+            "clue": "iemand die wiskunde doet"
+        },
+        {
+            "word": "wist",
+            "clue": "verleden van weten"
+        },
+        {
+            "word": "witlof",
+            "clue": "groente"
+        },
+        {
+            "word": "wol",
+            "clue": "vacht van schaap"
+        },
+        {
+            "word": "wolkenlucht",
+            "clue": "lucht met wolken"
+        },
+        {
+            "word": "wonder",
+            "clue": "iets bijzonders"
+        },
+        {
+            "word": "woning",
+            "clue": "huis"
+        },
+        {
+            "word": "woonkamer",
+            "clue": "kamer om te leven"
+        },
+        {
+            "word": "woonwijk",
+            "clue": "wijk om te wonen"
+        },
+        {
+            "word": "worteltaart",
+            "clue": "taart met wortel"
+        },
+        {
+            "word": "woud",
+            "clue": "groot bos"
+        },
+        {
+            "word": "wraak",
+            "clue": "vergelding"
+        },
+        {
+            "word": "wrak",
+            "clue": "kapot schip"
+        },
+        {
+            "word": "wrede",
+            "clue": "hardvochtig"
+        },
+        {
+            "word": "wrijfwas",
+            "clue": "schoonmaakgerei"
+        },
+        {
+            "word": "wrijving",
+            "clue": "weerstand bij contact"
+        },
+        {
+            "word": "zaailing",
+            "clue": "jonge plant"
+        },
+        {
+            "word": "zaal",
+            "clue": "grote ruimte"
+        },
+        {
+            "word": "zaalvoetbal",
+            "clue": "voetbal in zaal"
+        },
+        {
+            "word": "zadel",
+            "clue": "zitplek op paard"
+        },
+        {
+            "word": "zandbak",
+            "clue": "bak met zand"
+        },
+        {
+            "word": "zandbank",
+            "clue": "hoop zand in water"
+        },
+        {
+            "word": "zandkorrel",
+            "clue": "klein stukje zand"
+        },
+        {
+            "word": "zandloper",
+            "clue": "klok met zand"
+        },
+        {
+            "word": "zandweg",
+            "clue": "weg van zand"
+        },
+        {
+            "word": "zandzak",
+            "clue": "zak met zand"
+        },
+        {
+            "word": "zanger",
+            "clue": "iemand die zingt"
+        },
+        {
+            "word": "zangkoor",
+            "clue": "groep zangers"
+        },
+        {
+            "word": "zangstem",
+            "clue": "stem om te zingen"
+        },
+        {
+            "word": "zeearend",
+            "clue": "grote vogel"
+        },
+        {
+            "word": "zeebodem",
+            "clue": "bodem van zee"
+        },
+        {
+            "word": "zeeboerderij",
+            "clue": "boerderij in zee"
+        },
+        {
+            "word": "zeebries",
+            "clue": "wind van zee"
+        },
+        {
+            "word": "zeedijk",
+            "clue": "dijk langs zee"
+        },
+        {
+            "word": "zeehaven",
+            "clue": "haven bij zee"
+        },
+        {
+            "word": "zeeheld",
+            "clue": "beroemde zeeman"
+        },
+        {
+            "word": "zeehond",
+            "clue": "zeedier"
+        },
+        {
+            "word": "zeekaart",
+            "clue": "kaart van zee"
+        },
+        {
+            "word": "zeekust",
+            "clue": "rand van zee"
+        },
+        {
+            "word": "zeelucht",
+            "clue": "lucht bij zee"
+        },
+        {
+            "word": "zeeman",
+            "clue": "zeiler"
+        },
+        {
+            "word": "zeemeeuw",
+            "clue": "vogel bij zee"
+        },
+        {
+            "word": "zeemonster",
+            "clue": "fabeldier in zee"
+        },
+        {
+            "word": "zeep",
+            "clue": "middel om te wassen"
+        },
+        {
+            "word": "zeepbel",
+            "clue": "bel van zeep"
+        },
+        {
+            "word": "zeepsop",
+            "clue": "schuim van zeep"
+        },
+        {
+            "word": "zeevaart",
+            "clue": "varen op zee"
+        },
+        {
+            "word": "zeewater",
+            "clue": "water van zee"
+        },
+        {
+            "word": "zeewier",
+            "clue": "plant in zee"
+        },
+        {
+            "word": "zegel",
+            "clue": "stempel of sticker"
+        },
+        {
+            "word": "zegening",
+            "clue": "goede wens"
+        },
+        {
+            "word": "zeilboot",
+            "clue": "boot met zeil"
+        },
+        {
+            "word": "zekerheid",
+            "clue": "veiligheid"
+        },
+        {
+            "word": "zelfstandig",
+            "clue": "op eigen kracht"
+        },
+        {
+            "word": "zelfvertrouwen",
+            "clue": "vertrouwen in jezelf"
+        },
+        {
+            "word": "zender",
+            "clue": "toestel voor uitzending"
+        },
+        {
+            "word": "zenuw",
+            "clue": "deel van lichaam"
+        },
+        {
+            "word": "zestien",
+            "clue": "getal"
+        },
+        {
+            "word": "zicht",
+            "clue": "vermogen om te zien"
+        },
+        {
+            "word": "zichtbaarheid",
+            "clue": "hoe goed je iets ziet"
+        },
+        {
+            "word": "zichzelf",
+            "clue": "eigen persoon"
+        },
+        {
+            "word": "ziekenhuis",
+            "clue": "gebouw voor zieken"
+        },
+        {
+            "word": "ziekte",
+            "clue": "kwaal"
+        },
+        {
+            "word": "ziel",
+            "clue": "innerlijk wezen"
+        },
+        {
+            "word": "zielig",
+            "clue": "verdrietig"
+        },
+        {
+            "word": "zielsrust",
+            "clue": "innerlijke rust"
+        },
+        {
+            "word": "zijde",
+            "clue": "stof of kant"
+        },
+        {
+            "word": "zijlijn",
+            "clue": "lijn aan zijkant"
+        },
+        {
+            "word": "zilvermunt",
+            "clue": "munt van zilver"
+        },
+        {
+            "word": "zilverwerk",
+            "clue": "spullen van zilver"
+        },
+        {
+            "word": "zinderend",
+            "clue": "gloeiend heet"
+        },
+        {
+            "word": "zingen",
+            "clue": "met stem muziek maken"
+        },
+        {
+            "word": "zingend",
+            "clue": "al zingend"
+        },
+        {
+            "word": "zinkgat",
+            "clue": "gat in grond"
+        },
+        {
+            "word": "zinloos",
+            "clue": "zonder nut"
+        },
+        {
+            "word": "zintuig",
+            "clue": "middel om waar te nemen"
+        },
+        {
+            "word": "zitplaats",
+            "clue": "plek om te zitten"
+        },
+        {
+            "word": "zittend",
+            "clue": "zittende houding"
+        },
+        {
+            "word": "zolder",
+            "clue": "bovenste verdieping"
+        },
+        {
+            "word": "zolderkamer",
+            "clue": "kamer op zolder"
+        },
+        {
+            "word": "zomeravond",
+            "clue": "avond in de zomer"
+        },
+        {
+            "word": "zomerdag",
+            "clue": "dag in de zomer"
+        },
+        {
+            "word": "zomerregen",
+            "clue": "regen in zomer"
+        },
+        {
+            "word": "zomerslaap",
+            "clue": "slaap in zomer"
+        },
+        {
+            "word": "zomersproet",
+            "clue": "sproet door zon"
+        },
+        {
+            "word": "zonnebloem",
+            "clue": "hoge bloem"
+        },
+        {
+            "word": "zonnebril",
+            "clue": "bril tegen zon"
+        },
+        {
+            "word": "zonnepaneel",
+            "clue": "paneel voor zon"
+        },
+        {
+            "word": "zonneschijn",
+            "clue": "licht van zon"
+        },
+        {
+            "word": "zonnesteek",
+            "clue": "hitteziekte"
+        },
+        {
+            "word": "zonnestraal",
+            "clue": "straal van zon"
+        },
+        {
+            "word": "zonsondergang",
+            "clue": "einde van dag"
+        },
+        {
+            "word": "zonsopgang",
+            "clue": "begin van dag"
+        },
+        {
+            "word": "zonsverduistering",
+            "clue": "zon achter maan"
+        },
+        {
+            "word": "zorginstelling",
+            "clue": "plaats voor zorg"
+        },
+        {
+            "word": "zoute smaak",
+            "clue": "smaak van zout"
+        },
+        {
+            "word": "zoutvaatje",
+            "clue": "potje voor zout"
+        },
+        {
+            "word": "zoutwater",
+            "clue": "water met zout"
+        },
+        {
+            "word": "zoutwinning",
+            "clue": "het winnen van zout"
+        },
+        {
+            "word": "zuidpool",
+            "clue": "zuidelijkste punt"
+        },
+        {
+            "word": "zuivel",
+            "clue": "melkproducten"
+        },
+        {
+            "word": "zuiver",
+            "clue": "schoon"
+        },
+        {
+            "word": "zulk",
+            "clue": "van die soort"
+        },
+        {
+            "word": "zuster",
+            "clue": "vrouwelijk familielid"
+        },
+        {
+            "word": "zuur",
+            "clue": "scherpe smaak"
+        },
+        {
+            "word": "zuurstof",
+            "clue": "gas om te ademen"
+        },
+        {
+            "word": "zwaan",
+            "clue": "grote witte vogel"
+        },
+        {
+            "word": "zwaard",
+            "clue": "wapen"
+        },
+        {
+            "word": "zwaartekracht",
+            "clue": "kracht die alles aantrekt"
+        },
+        {
+            "word": "zwabber",
+            "clue": "schoonmaakstok"
+        },
+        {
+            "word": "zwakte",
+            "clue": "gebrek aan kracht"
+        },
+        {
+            "word": "zwam",
+            "clue": "paddenstoel"
+        },
+        {
+            "word": "zwanger",
+            "clue": "in verwachting"
+        },
+        {
+            "word": "zwartboek",
+            "clue": "boek met klachten"
+        },
+        {
+            "word": "zweepslag",
+            "clue": "spierscheur"
+        },
+        {
+            "word": "zwembad",
+            "clue": "bad om in te zwemmen"
+        },
+        {
+            "word": "zwembroek",
+            "clue": "broek voor zwemmen"
+        },
+        {
+            "word": "zwemles",
+            "clue": "les in zwemmen"
+        },
+        {
+            "word": "zwemmer",
+            "clue": "iemand die zwemt"
+        },
+        {
+            "word": "zwemvest",
+            "clue": "vest om te drijven"
+        },
+        {
+            "word": "zwenkwiel",
+            "clue": "wiel dat draait"
+        },
+        {
+            "word": "zwerven",
+            "clue": "doelloos rondgaan"
+        },
+        {
+            "word": "zweven",
+            "clue": "hangen in lucht"
+        },
+        {
+            "word": "zweverig",
+            "clue": "dromerig"
+        },
+        {
+            "word": "zwijgen",
+            "clue": "niets zeggen"
+        }
+    ]
+}
